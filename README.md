@@ -1,7 +1,7 @@
 # ConcurrentProgrammingWithJavaThreads
 Concurrent Programming with Java Threads. The project imitates the scenario of a company containing 10 departments, making transactions over 50 of its internal accounts.
 
-# Assignment problem Statement
+# Assignment Problem Statement
 I was supposed to develop a thread-based Java Program, capable of executing on multiple cores, for the following scenario.
 
 A company wishes to implement a simple accounting system that allows each of its 10 departments to perform the following transactions on its 50 internal accounts.

@@ -1,0 +1,1288 @@
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30431.0
+New balance in Account ID 1 is € 19669.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30430.0
+New balance in Account ID 1 is € 19670.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30429.0
+New balance in Account ID 1 is € 19671.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30428.0
+New balance in Account ID 1 is € 19672.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30427.0
+New balance in Account ID 1 is € 19673.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30426.0
+New balance in Account ID 1 is € 19674.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30425.0
+New balance in Account ID 1 is € 19675.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30424.0
+New balance in Account ID 1 is € 19676.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30423.0
+New balance in Account ID 1 is € 19677.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30422.0
+New balance in Account ID 1 is € 19678.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30421.0
+New balance in Account ID 1 is € 19679.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30420.0
+New balance in Account ID 1 is € 19680.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30419.0
+New balance in Account ID 1 is € 19681.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30418.0
+New balance in Account ID 1 is € 19682.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30417.0
+New balance in Account ID 1 is € 19683.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30416.0
+New balance in Account ID 1 is € 19684.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30415.0
+New balance in Account ID 1 is € 19685.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30414.0
+New balance in Account ID 1 is € 19686.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30413.0
+New balance in Account ID 1 is € 19687.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30412.0
+New balance in Account ID 1 is € 19688.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30411.0
+New balance in Account ID 1 is € 19689.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30410.0
+New balance in Account ID 1 is € 19690.0
+pool-1-thread-2 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30409.0
+New balance in Account ID 1 is € 19691.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30408.0
+New balance in Account ID 1 is € 19692.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30407.0
+New balance in Account ID 1 is € 19693.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30406.0
+New balance in Account ID 1 is € 19694.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30405.0
+New balance in Account ID 1 is € 19695.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30404.0
+New balance in Account ID 1 is € 19696.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30403.0
+New balance in Account ID 1 is € 19697.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30402.0
+New balance in Account ID 1 is € 19698.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30401.0
+New balance in Account ID 1 is € 19699.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30400.0
+New balance in Account ID 1 is € 19700.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30399.0
+New balance in Account ID 1 is € 19701.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30398.0
+New balance in Account ID 1 is € 19702.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30397.0
+New balance in Account ID 1 is € 19703.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30396.0
+New balance in Account ID 1 is € 19704.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30395.0
+New balance in Account ID 1 is € 19705.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30394.0
+New balance in Account ID 1 is € 19706.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30393.0
+New balance in Account ID 1 is € 19707.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30392.0
+New balance in Account ID 1 is € 19708.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30391.0
+New balance in Account ID 1 is € 19709.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30390.0
+New balance in Account ID 1 is € 19710.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30389.0
+New balance in Account ID 1 is € 19711.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30388.0
+New balance in Account ID 1 is € 19712.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30387.0
+New balance in Account ID 1 is € 19713.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30386.0
+New balance in Account ID 1 is € 19714.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30385.0
+New balance in Account ID 1 is € 19715.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30384.0
+New balance in Account ID 1 is € 19716.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30383.0
+New balance in Account ID 1 is € 19717.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30382.0
+New balance in Account ID 1 is € 19718.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30381.0
+New balance in Account ID 1 is € 19719.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30380.0
+New balance in Account ID 1 is € 19720.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30379.0
+New balance in Account ID 1 is € 19721.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30378.0
+New balance in Account ID 1 is € 19722.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30377.0
+New balance in Account ID 1 is € 19723.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30376.0
+New balance in Account ID 1 is € 19724.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30375.0
+New balance in Account ID 1 is € 19725.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30374.0
+New balance in Account ID 1 is € 19726.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30373.0
+New balance in Account ID 1 is € 19727.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30372.0
+New balance in Account ID 1 is € 19728.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30371.0
+New balance in Account ID 1 is € 19729.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30370.0
+New balance in Account ID 1 is € 19730.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30369.0
+New balance in Account ID 1 is € 19731.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30368.0
+New balance in Account ID 1 is € 19732.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30367.0
+New balance in Account ID 1 is € 19733.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30366.0
+New balance in Account ID 1 is € 19734.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30365.0
+New balance in Account ID 1 is € 19735.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30364.0
+New balance in Account ID 1 is € 19736.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30363.0
+New balance in Account ID 1 is € 19737.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30362.0
+New balance in Account ID 1 is € 19738.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30361.0
+New balance in Account ID 1 is € 19739.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30360.0
+New balance in Account ID 1 is € 19740.0
+pool-1-thread-2 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30359.0
+New balance in Account ID 1 is € 19741.0
+pool-1-thread-2 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30358.0
+New balance in Account ID 1 is € 19742.0
+pool-1-thread-2 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30357.0
+New balance in Account ID 1 is € 19743.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30356.0
+New balance in Account ID 1 is € 19744.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30355.0
+New balance in Account ID 1 is € 19745.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30354.0
+New balance in Account ID 1 is € 19746.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30353.0
+New balance in Account ID 1 is € 19747.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30352.0
+New balance in Account ID 1 is € 19748.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30351.0
+New balance in Account ID 1 is € 19749.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30350.0
+New balance in Account ID 1 is € 19750.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30349.0
+New balance in Account ID 1 is € 19751.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30348.0
+New balance in Account ID 1 is € 19752.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30347.0
+New balance in Account ID 1 is € 19753.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30346.0
+New balance in Account ID 1 is € 19754.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30345.0
+New balance in Account ID 1 is € 19755.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30344.0
+New balance in Account ID 1 is € 19756.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30343.0
+New balance in Account ID 1 is € 19757.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30342.0
+New balance in Account ID 1 is € 19758.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30341.0
+New balance in Account ID 1 is € 19759.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30340.0
+New balance in Account ID 1 is € 19760.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30339.0
+New balance in Account ID 1 is € 19761.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30338.0
+New balance in Account ID 1 is € 19762.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30337.0
+New balance in Account ID 1 is € 19763.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30336.0
+New balance in Account ID 1 is € 19764.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30335.0
+New balance in Account ID 1 is € 19765.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30334.0
+New balance in Account ID 1 is € 19766.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30333.0
+New balance in Account ID 1 is € 19767.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30332.0
+New balance in Account ID 1 is € 19768.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30331.0
+New balance in Account ID 1 is € 19769.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30330.0
+New balance in Account ID 1 is € 19770.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30329.0
+New balance in Account ID 1 is € 19771.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30328.0
+New balance in Account ID 1 is € 19772.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30327.0
+New balance in Account ID 1 is € 19773.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30326.0
+New balance in Account ID 1 is € 19774.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30325.0
+New balance in Account ID 1 is € 19775.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30324.0
+New balance in Account ID 1 is € 19776.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30323.0
+New balance in Account ID 1 is € 19777.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30322.0
+New balance in Account ID 1 is € 19778.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30321.0
+New balance in Account ID 1 is € 19779.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30320.0
+New balance in Account ID 1 is € 19780.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30319.0
+New balance in Account ID 1 is € 19781.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30318.0
+New balance in Account ID 1 is € 19782.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30317.0
+New balance in Account ID 1 is € 19783.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30316.0
+New balance in Account ID 1 is € 19784.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30315.0
+New balance in Account ID 1 is € 19785.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30314.0
+New balance in Account ID 1 is € 19786.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30313.0
+New balance in Account ID 1 is € 19787.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30312.0
+New balance in Account ID 1 is € 19788.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30311.0
+New balance in Account ID 1 is € 19789.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30310.0
+New balance in Account ID 1 is € 19790.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30309.0
+New balance in Account ID 1 is € 19791.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30308.0
+New balance in Account ID 1 is € 19792.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30307.0
+New balance in Account ID 1 is € 19793.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30306.0
+New balance in Account ID 1 is € 19794.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30305.0
+New balance in Account ID 1 is € 19795.0
+pool-1-thread-2 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30304.0
+New balance in Account ID 1 is € 19796.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30303.0
+New balance in Account ID 1 is € 19797.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30302.0
+New balance in Account ID 1 is € 19798.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30301.0
+New balance in Account ID 1 is € 19799.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30300.0
+New balance in Account ID 1 is € 19800.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30299.0
+New balance in Account ID 1 is € 19801.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30298.0
+New balance in Account ID 1 is € 19802.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30297.0
+New balance in Account ID 1 is € 19803.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30296.0
+New balance in Account ID 1 is € 19804.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30295.0
+New balance in Account ID 1 is € 19805.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30294.0
+New balance in Account ID 1 is € 19806.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30293.0
+New balance in Account ID 1 is € 19807.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30292.0
+New balance in Account ID 1 is € 19808.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30291.0
+New balance in Account ID 1 is € 19809.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30290.0
+New balance in Account ID 1 is € 19810.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30289.0
+New balance in Account ID 1 is € 19811.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30288.0
+New balance in Account ID 1 is € 19812.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30287.0
+New balance in Account ID 1 is € 19813.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30286.0
+New balance in Account ID 1 is € 19814.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30285.0
+New balance in Account ID 1 is € 19815.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30284.0
+New balance in Account ID 1 is € 19816.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30283.0
+New balance in Account ID 1 is € 19817.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30282.0
+New balance in Account ID 1 is € 19818.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30281.0
+New balance in Account ID 1 is € 19819.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30280.0
+New balance in Account ID 1 is € 19820.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30279.0
+New balance in Account ID 1 is € 19821.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30278.0
+New balance in Account ID 1 is € 19822.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30277.0
+New balance in Account ID 1 is € 19823.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30276.0
+New balance in Account ID 1 is € 19824.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30275.0
+New balance in Account ID 1 is € 19825.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30274.0
+New balance in Account ID 1 is € 19826.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30273.0
+New balance in Account ID 1 is € 19827.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30272.0
+New balance in Account ID 1 is € 19828.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30271.0
+New balance in Account ID 1 is € 19829.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30270.0
+New balance in Account ID 1 is € 19830.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30269.0
+New balance in Account ID 1 is € 19831.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30268.0
+New balance in Account ID 1 is € 19832.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30267.0
+New balance in Account ID 1 is € 19833.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30266.0
+New balance in Account ID 1 is € 19834.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30265.0
+New balance in Account ID 1 is € 19835.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30264.0
+New balance in Account ID 1 is € 19836.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30263.0
+New balance in Account ID 1 is € 19837.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30262.0
+New balance in Account ID 1 is € 19838.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30261.0
+New balance in Account ID 1 is € 19839.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30260.0
+New balance in Account ID 1 is € 19840.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30259.0
+New balance in Account ID 1 is € 19841.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30258.0
+New balance in Account ID 1 is € 19842.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30257.0
+New balance in Account ID 1 is € 19843.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30256.0
+New balance in Account ID 1 is € 19844.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30255.0
+New balance in Account ID 1 is € 19845.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30254.0
+New balance in Account ID 1 is € 19846.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30253.0
+New balance in Account ID 1 is € 19847.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30252.0
+New balance in Account ID 1 is € 19848.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30251.0
+New balance in Account ID 1 is € 19849.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30250.0
+New balance in Account ID 1 is € 19850.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30249.0
+New balance in Account ID 1 is € 19851.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30248.0
+New balance in Account ID 1 is € 19852.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30247.0
+New balance in Account ID 1 is € 19853.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30246.0
+New balance in Account ID 1 is € 19854.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30245.0
+New balance in Account ID 1 is € 19855.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30244.0
+New balance in Account ID 1 is € 19856.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30243.0
+New balance in Account ID 1 is € 19857.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30242.0
+New balance in Account ID 1 is € 19858.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30241.0
+New balance in Account ID 1 is € 19859.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30240.0
+New balance in Account ID 1 is € 19860.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30239.0
+New balance in Account ID 1 is € 19861.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30238.0
+New balance in Account ID 1 is € 19862.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30237.0
+New balance in Account ID 1 is € 19863.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30236.0
+New balance in Account ID 1 is € 19864.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30235.0
+New balance in Account ID 1 is € 19865.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30234.0
+New balance in Account ID 1 is € 19866.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30233.0
+New balance in Account ID 1 is € 19867.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30232.0
+New balance in Account ID 1 is € 19868.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30231.0
+New balance in Account ID 1 is € 19869.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30230.0
+New balance in Account ID 1 is € 19870.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30229.0
+New balance in Account ID 1 is € 19871.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30228.0
+New balance in Account ID 1 is € 19872.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30227.0
+New balance in Account ID 1 is € 19873.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30226.0
+New balance in Account ID 1 is € 19874.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30225.0
+New balance in Account ID 1 is € 19875.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30224.0
+New balance in Account ID 1 is € 19876.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30223.0
+New balance in Account ID 1 is € 19877.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30222.0
+New balance in Account ID 1 is € 19878.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30221.0
+New balance in Account ID 1 is € 19879.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30220.0
+New balance in Account ID 1 is € 19880.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30219.0
+New balance in Account ID 1 is € 19881.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30218.0
+New balance in Account ID 1 is € 19882.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30217.0
+New balance in Account ID 1 is € 19883.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30216.0
+New balance in Account ID 1 is € 19884.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30215.0
+New balance in Account ID 1 is € 19885.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30214.0
+New balance in Account ID 1 is € 19886.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30213.0
+New balance in Account ID 1 is € 19887.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30212.0
+New balance in Account ID 1 is € 19888.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30211.0
+New balance in Account ID 1 is € 19889.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30210.0
+New balance in Account ID 1 is € 19890.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30209.0
+New balance in Account ID 1 is € 19891.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30208.0
+New balance in Account ID 1 is € 19892.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30207.0
+New balance in Account ID 1 is € 19893.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30206.0
+New balance in Account ID 1 is € 19894.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30205.0
+New balance in Account ID 1 is € 19895.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30204.0
+New balance in Account ID 1 is € 19896.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30203.0
+New balance in Account ID 1 is € 19897.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30202.0
+New balance in Account ID 1 is € 19898.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30201.0
+New balance in Account ID 1 is € 19899.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30200.0
+New balance in Account ID 1 is € 19900.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30199.0
+New balance in Account ID 1 is € 19901.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30198.0
+New balance in Account ID 1 is € 19902.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30197.0
+New balance in Account ID 1 is € 19903.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30196.0
+New balance in Account ID 1 is € 19904.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30195.0
+New balance in Account ID 1 is € 19905.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30194.0
+New balance in Account ID 1 is € 19906.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30193.0
+New balance in Account ID 1 is € 19907.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30192.0
+New balance in Account ID 1 is € 19908.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30191.0
+New balance in Account ID 1 is € 19909.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30190.0
+New balance in Account ID 1 is € 19910.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30189.0
+New balance in Account ID 1 is € 19911.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30188.0
+New balance in Account ID 1 is € 19912.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30187.0
+New balance in Account ID 1 is € 19913.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30186.0
+New balance in Account ID 1 is € 19914.0
+pool-1-thread-2 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30185.0
+New balance in Account ID 1 is € 19915.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30184.0
+New balance in Account ID 1 is € 19916.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30183.0
+New balance in Account ID 1 is € 19917.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30182.0
+New balance in Account ID 1 is € 19918.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30181.0
+New balance in Account ID 1 is € 19919.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30180.0
+New balance in Account ID 1 is € 19920.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30179.0
+New balance in Account ID 1 is € 19921.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30178.0
+New balance in Account ID 1 is € 19922.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30177.0
+New balance in Account ID 1 is € 19923.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30176.0
+New balance in Account ID 1 is € 19924.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30175.0
+New balance in Account ID 1 is € 19925.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30174.0
+New balance in Account ID 1 is € 19926.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30173.0
+New balance in Account ID 1 is € 19927.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30172.0
+New balance in Account ID 1 is € 19928.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30171.0
+New balance in Account ID 1 is € 19929.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30170.0
+New balance in Account ID 1 is € 19930.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30169.0
+New balance in Account ID 1 is € 19931.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30168.0
+New balance in Account ID 1 is € 19932.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30167.0
+New balance in Account ID 1 is € 19933.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30166.0
+New balance in Account ID 1 is € 19934.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30165.0
+New balance in Account ID 1 is € 19935.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30164.0
+New balance in Account ID 1 is € 19936.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30163.0
+New balance in Account ID 1 is € 19937.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30162.0
+New balance in Account ID 1 is € 19938.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30161.0
+New balance in Account ID 1 is € 19939.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30160.0
+New balance in Account ID 1 is € 19940.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30159.0
+New balance in Account ID 1 is € 19941.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30158.0
+New balance in Account ID 1 is € 19942.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30157.0
+New balance in Account ID 1 is € 19943.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30156.0
+New balance in Account ID 1 is € 19944.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30155.0
+New balance in Account ID 1 is € 19945.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30154.0
+New balance in Account ID 1 is € 19946.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30153.0
+New balance in Account ID 1 is € 19947.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30152.0
+New balance in Account ID 1 is € 19948.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30151.0
+New balance in Account ID 1 is € 19949.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30150.0
+New balance in Account ID 1 is € 19950.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30149.0
+New balance in Account ID 1 is € 19951.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30148.0
+New balance in Account ID 1 is € 19952.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30147.0
+New balance in Account ID 1 is € 19953.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30146.0
+New balance in Account ID 1 is € 19954.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30145.0
+New balance in Account ID 1 is € 19955.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30144.0
+New balance in Account ID 1 is € 19956.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30143.0
+New balance in Account ID 1 is € 19957.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30142.0
+New balance in Account ID 1 is € 19958.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30141.0
+New balance in Account ID 1 is € 19959.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30140.0
+New balance in Account ID 1 is € 19960.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30139.0
+New balance in Account ID 1 is € 19961.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30138.0
+New balance in Account ID 1 is € 19962.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30137.0
+New balance in Account ID 1 is € 19963.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30136.0
+New balance in Account ID 1 is € 19964.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30135.0
+New balance in Account ID 1 is € 19965.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30134.0
+New balance in Account ID 1 is € 19966.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30133.0
+New balance in Account ID 1 is € 19967.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30132.0
+New balance in Account ID 1 is € 19968.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30131.0
+New balance in Account ID 1 is € 19969.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30130.0
+New balance in Account ID 1 is € 19970.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30129.0
+New balance in Account ID 1 is € 19971.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30128.0
+New balance in Account ID 1 is € 19972.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30127.0
+New balance in Account ID 1 is € 19973.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30126.0
+New balance in Account ID 1 is € 19974.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30125.0
+New balance in Account ID 1 is € 19975.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30124.0
+New balance in Account ID 1 is € 19976.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30123.0
+New balance in Account ID 1 is € 19977.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30122.0
+New balance in Account ID 1 is € 19978.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30121.0
+New balance in Account ID 1 is € 19979.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30120.0
+New balance in Account ID 1 is € 19980.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30119.0
+New balance in Account ID 1 is € 19981.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30118.0
+New balance in Account ID 1 is € 19982.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30117.0
+New balance in Account ID 1 is € 19983.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30116.0
+New balance in Account ID 1 is € 19984.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30115.0
+New balance in Account ID 1 is € 19985.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30114.0
+New balance in Account ID 1 is € 19986.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30113.0
+New balance in Account ID 1 is € 19987.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30112.0
+New balance in Account ID 1 is € 19988.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30111.0
+New balance in Account ID 1 is € 19989.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30110.0
+New balance in Account ID 1 is € 19990.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30109.0
+New balance in Account ID 1 is € 19991.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30108.0
+New balance in Account ID 1 is € 19992.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30107.0
+New balance in Account ID 1 is € 19993.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30106.0
+New balance in Account ID 1 is € 19994.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30105.0
+New balance in Account ID 1 is € 19995.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30104.0
+New balance in Account ID 1 is € 19996.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30103.0
+New balance in Account ID 1 is € 19997.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30102.0
+New balance in Account ID 1 is € 19998.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30101.0
+New balance in Account ID 1 is € 19999.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30100.0
+New balance in Account ID 1 is € 20000.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30099.0
+New balance in Account ID 1 is € 20001.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30098.0
+New balance in Account ID 1 is € 20002.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30097.0
+New balance in Account ID 1 is € 20003.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30096.0
+New balance in Account ID 1 is € 20004.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30095.0
+New balance in Account ID 1 is € 20005.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30094.0
+New balance in Account ID 1 is € 20006.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30093.0
+New balance in Account ID 1 is € 20007.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30092.0
+New balance in Account ID 1 is € 20008.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30091.0
+New balance in Account ID 1 is € 20009.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30090.0
+New balance in Account ID 1 is € 20010.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30089.0
+New balance in Account ID 1 is € 20011.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30088.0
+New balance in Account ID 1 is € 20012.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30087.0
+New balance in Account ID 1 is € 20013.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30086.0
+New balance in Account ID 1 is € 20014.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30085.0
+New balance in Account ID 1 is € 20015.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30084.0
+New balance in Account ID 1 is € 20016.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30083.0
+New balance in Account ID 1 is € 20017.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30082.0
+New balance in Account ID 1 is € 20018.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30081.0
+New balance in Account ID 1 is € 20019.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30080.0
+New balance in Account ID 1 is € 20020.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30079.0
+New balance in Account ID 1 is € 20021.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30078.0
+New balance in Account ID 1 is € 20022.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30077.0
+New balance in Account ID 1 is € 20023.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30076.0
+New balance in Account ID 1 is € 20024.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30075.0
+New balance in Account ID 1 is € 20025.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30074.0
+New balance in Account ID 1 is € 20026.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30073.0
+New balance in Account ID 1 is € 20027.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30072.0
+New balance in Account ID 1 is € 20028.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30071.0
+New balance in Account ID 1 is € 20029.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30070.0
+New balance in Account ID 1 is € 20030.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30069.0
+New balance in Account ID 1 is € 20031.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30068.0
+New balance in Account ID 1 is € 20032.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30067.0
+New balance in Account ID 1 is € 20033.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30066.0
+New balance in Account ID 1 is € 20034.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30065.0
+New balance in Account ID 1 is € 20035.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30064.0
+New balance in Account ID 1 is € 20036.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30063.0
+New balance in Account ID 1 is € 20037.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30062.0
+New balance in Account ID 1 is € 20038.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30061.0
+New balance in Account ID 1 is € 20039.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30060.0
+New balance in Account ID 1 is € 20040.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30059.0
+New balance in Account ID 1 is € 20041.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30058.0
+New balance in Account ID 1 is € 20042.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30057.0
+New balance in Account ID 1 is € 20043.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30056.0
+New balance in Account ID 1 is € 20044.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30055.0
+New balance in Account ID 1 is € 20045.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30054.0
+New balance in Account ID 1 is € 20046.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30053.0
+New balance in Account ID 1 is € 20047.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30052.0
+New balance in Account ID 1 is € 20048.0
+pool-1-thread-2 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30051.0
+New balance in Account ID 1 is € 20049.0
+pool-1-thread-2 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30050.0
+New balance in Account ID 1 is € 20050.0
+pool-1-thread-2 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30049.0
+New balance in Account ID 1 is € 20051.0
+pool-1-thread-10 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30048.0
+New balance in Account ID 1 is € 20052.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30047.0
+New balance in Account ID 1 is € 20053.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30046.0
+New balance in Account ID 1 is € 20054.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30045.0
+New balance in Account ID 1 is € 20055.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30044.0
+New balance in Account ID 1 is € 20056.0
+pool-1-thread-9 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30043.0
+New balance in Account ID 1 is € 20057.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30042.0
+New balance in Account ID 1 is € 20058.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30041.0
+New balance in Account ID 1 is € 20059.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30040.0
+New balance in Account ID 1 is € 20060.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30039.0
+New balance in Account ID 1 is € 20061.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30038.0
+New balance in Account ID 1 is € 20062.0
+pool-1-thread-8 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30037.0
+New balance in Account ID 1 is € 20063.0
+pool-1-thread-7 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30036.0
+New balance in Account ID 1 is € 20064.0
+pool-1-thread-6 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30035.0
+New balance in Account ID 1 is € 20065.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30034.0
+New balance in Account ID 1 is € 20066.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30033.0
+New balance in Account ID 1 is € 20067.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30032.0
+New balance in Account ID 1 is € 20068.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30031.0
+New balance in Account ID 1 is € 20069.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30030.0
+New balance in Account ID 1 is € 20070.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30029.0
+New balance in Account ID 1 is € 20071.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30028.0
+New balance in Account ID 1 is € 20072.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30027.0
+New balance in Account ID 1 is € 20073.0
+pool-1-thread-5 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30026.0
+New balance in Account ID 1 is € 20074.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30025.0
+New balance in Account ID 1 is € 20075.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30024.0
+New balance in Account ID 1 is € 20076.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30023.0
+New balance in Account ID 1 is € 20077.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30022.0
+New balance in Account ID 1 is € 20078.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30021.0
+New balance in Account ID 1 is € 20079.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30020.0
+New balance in Account ID 1 is € 20080.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30019.0
+New balance in Account ID 1 is € 20081.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30018.0
+New balance in Account ID 1 is € 20082.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30017.0
+New balance in Account ID 1 is € 20083.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30016.0
+New balance in Account ID 1 is € 20084.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30015.0
+New balance in Account ID 1 is € 20085.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30014.0
+New balance in Account ID 1 is € 20086.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30013.0
+New balance in Account ID 1 is € 20087.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30012.0
+New balance in Account ID 1 is € 20088.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30011.0
+New balance in Account ID 1 is € 20089.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30010.0
+New balance in Account ID 1 is € 20090.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 1 from Account ID 2 to Account ID 1
+New balance in Account ID 2 is € 30009.0
+New balance in Account ID 1 is € 20091.0
+New balance in Account ID 2 is € 30008.0
+New balance in Account ID 1 is € 20092.0
+New balance in Account ID 2 is € 30007.0
+New balance in Account ID 1 is € 20093.0
+New balance in Account ID 2 is € 30006.0
+New balance in Account ID 1 is € 20094.0
+New balance in Account ID 2 is € 30005.0
+New balance in Account ID 1 is € 20095.0
+New balance in Account ID 2 is € 30004.0
+New balance in Account ID 1 is € 20096.0
+New balance in Account ID 2 is € 30003.0
+New balance in Account ID 1 is € 20097.0
+New balance in Account ID 2 is € 30002.0
+New balance in Account ID 1 is € 20098.0
+New balance in Account ID 2 is € 30001.0
+New balance in Account ID 1 is € 20099.0
+New balance in Account ID 2 is € 30000.0
+New balance in Account ID 1 is € 20100.0
+Threads have finished executing their tasks.

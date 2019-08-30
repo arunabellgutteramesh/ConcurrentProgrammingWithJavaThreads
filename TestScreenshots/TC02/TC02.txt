@@ -1,0 +1,1192 @@
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55980.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55970.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55960.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55950.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55940.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55930.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55920.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55910.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55900.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55890.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55880.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55870.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55860.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55850.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55840.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55830.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55820.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55810.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55800.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55790.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55780.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55770.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55760.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55750.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55740.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55730.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55720.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55710.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55700.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55690.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55680.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55670.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55660.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55650.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55640.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55630.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55620.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55610.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55600.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55590.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55580.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55570.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55560.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55550.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55540.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55530.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55520.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55510.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55500.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55490.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55480.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55470.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55460.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55450.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55440.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55430.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55420.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55410.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55400.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55390.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55380.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55370.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55360.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55350.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55340.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55330.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55320.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55310.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55300.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55290.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55280.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55270.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55260.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55250.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55240.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55230.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55220.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55210.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55200.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55190.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55180.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55170.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55160.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55150.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55140.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55130.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55120.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55110.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55100.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55090.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55080.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55070.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55060.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55050.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55040.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55030.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55020.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55010.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 55000.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54990.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54980.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54970.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54960.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54950.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54940.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54930.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54920.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54910.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54900.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54890.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54880.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54870.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54860.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54850.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54840.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54830.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54820.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54810.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54800.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54790.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54780.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54770.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54760.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54750.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54740.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54730.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54720.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54710.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54700.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54690.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54680.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54670.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54660.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54650.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54640.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54630.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54620.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54610.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54600.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54590.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54580.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54570.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54560.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54550.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54540.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54530.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54520.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54510.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54500.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54490.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54480.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54470.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54460.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54450.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54440.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54430.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54420.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54410.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54400.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54390.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54380.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54370.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54360.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54350.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54340.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54330.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54320.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54310.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54300.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54290.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54280.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54270.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54260.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54250.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54240.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54230.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54220.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54210.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54200.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54190.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54180.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54170.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54160.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54150.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54140.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54130.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54120.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54110.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54100.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54090.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54080.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54070.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54060.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54050.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54040.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54030.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54020.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54010.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 54000.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53990.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53980.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53970.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53960.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53950.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53940.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53930.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53920.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53910.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53900.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53890.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53880.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53870.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53860.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53850.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53840.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53830.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53820.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53810.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53800.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53790.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53780.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53770.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53760.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53750.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53740.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53730.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53720.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53710.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53700.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53690.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53680.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53670.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53660.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53650.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53640.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53630.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53620.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53610.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53600.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53590.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53580.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53570.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53560.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53550.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53540.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53530.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53520.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53510.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53500.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53490.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53480.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53470.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53460.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53450.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53440.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53430.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53420.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53410.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53400.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53390.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53380.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53370.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53360.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53350.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53340.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53330.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53320.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53310.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53300.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53290.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53280.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53270.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53260.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53250.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53240.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53230.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53220.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53210.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53200.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53190.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53180.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53170.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53160.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53150.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53140.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53130.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53120.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53110.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53100.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53090.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53080.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53070.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53060.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53050.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53040.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53030.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53020.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53010.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 53000.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52990.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52980.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52970.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52960.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52950.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52940.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52930.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52920.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52910.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52900.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52890.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52880.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52870.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52860.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52850.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52840.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52830.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52820.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52810.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52800.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52790.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52780.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52770.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52760.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52750.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52740.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52730.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52720.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52710.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52700.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52690.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52680.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52670.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52660.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52650.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52640.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52630.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52620.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52610.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52600.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52590.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52580.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52570.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52560.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52550.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52540.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52530.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52520.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52510.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52500.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52490.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52480.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52470.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52460.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52450.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52440.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52430.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52420.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52410.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52400.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52390.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52380.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52370.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52360.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52350.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52340.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52330.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52320.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52310.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52300.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52290.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52280.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52270.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52260.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52250.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52240.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52230.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52220.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52210.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52200.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52190.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52180.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52170.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52160.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52150.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52140.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52130.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52120.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52110.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52100.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52090.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52080.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52070.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52060.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52050.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52040.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52030.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52020.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52010.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 52000.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51990.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51980.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51970.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51960.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51950.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51940.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51930.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51920.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51910.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51900.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51890.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51880.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51870.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51860.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51850.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51840.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51830.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51820.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51810.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51800.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51790.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51780.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51770.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51760.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51750.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51740.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51730.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51720.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51710.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51700.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51690.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51680.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51670.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51660.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51650.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51640.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51630.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51620.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51610.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51600.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51590.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51580.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51570.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51560.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51550.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51540.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51530.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51520.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51510.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51500.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51490.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51480.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51470.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51460.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51450.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51440.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51430.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51420.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51410.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51400.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51390.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51380.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51370.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51360.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51350.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51340.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51330.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51320.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51310.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51300.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51290.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51280.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51270.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51260.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51250.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51240.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51230.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51220.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51210.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51200.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51190.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51180.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51170.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51160.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51150.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51140.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51130.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51120.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51110.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51100.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51090.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51080.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51070.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51060.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51050.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51040.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51030.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51020.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51010.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 51000.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50990.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50980.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50970.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50960.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50950.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50940.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50930.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50920.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50910.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50900.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50890.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50880.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50870.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50860.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50850.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50840.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50830.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50820.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50810.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50800.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50790.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50780.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50770.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50760.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50750.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50740.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50730.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50720.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50710.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50700.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50690.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50680.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50670.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50660.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50650.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50640.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50630.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50620.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50610.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50600.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50590.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50580.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50570.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50560.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50550.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50540.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50530.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50520.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50510.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50500.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50490.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50480.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50470.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50460.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50450.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50440.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50430.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50420.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50410.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50400.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50390.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50380.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50370.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50360.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50350.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50340.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50330.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50320.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50310.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50300.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50290.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50280.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50270.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50260.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50250.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50240.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50230.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50220.0
+pool-1-thread-8 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50210.0
+pool-1-thread-7 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50200.0
+pool-1-thread-6 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50190.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50180.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50170.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50160.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50150.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50140.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50130.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50120.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50110.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50100.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50090.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50080.0
+pool-1-thread-5 is helping Department ID 101 in making a withdrawal of € 10 from Account ID 2
+New balance in Account ID 2 is € 50070.0
+New balance in Account ID 2 is € 50060.0
+New balance in Account ID 2 is € 50050.0
+New balance in Account ID 2 is € 50040.0
+New balance in Account ID 2 is € 50030.0
+New balance in Account ID 2 is € 50020.0
+New balance in Account ID 2 is € 50010.0
+New balance in Account ID 2 is € 50000.0
+Threads have finished executing their tasks.

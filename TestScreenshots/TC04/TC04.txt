@@ -1,0 +1,1403 @@
+pool-1-thread-3 is helping Department ID 108 in making a deposit of € 273 to Account ID 36
+New balance in Account ID 13 is € 3116.0
+New balance in Account ID 7 is € 15506.0
+pool-1-thread-4 is helping Department ID 104 in making a deposit of € 143 to Account ID 44
+New balance in Account ID 50 is € 4424.0
+pool-1-thread-2 is helping Department ID 101 in making a deposit of € 107 to Account ID 13
+New balance in Account ID 36 is € 11586.0
+pool-1-thread-3 is helping Department ID 105 in making a deposit of € 248 to Account ID 18
+New balance in Account ID 47 is € 13368.0
+pool-1-thread-1 is helping Department ID 102 in making a withdrawal of € 173 from Account ID 10
+New balance in Account ID 44 is € 21935.0
+pool-1-thread-4 is helping Department ID 103 in making a withdrawal of € 133 from Account ID 45
+New balance in Account ID 10 is € 7893.0
+New balance in Account ID 13 is € 3223.0
+New balance in Account ID 18 is € 20251.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 432 from Account ID 39
+New balance in Account ID 45 is € 3906.0
+pool-1-thread-2 is helping Department ID 103 in making a withdrawal of € 290 from Account ID 26
+New balance in Account ID 39 is € 8184.0
+pool-1-thread-3 is helping Department ID 109 in making a transfer of € 483 from Account ID 31 to Account ID 11
+New balance in Account ID 26 is € 15655.0
+pool-1-thread-4 is helping Department ID 103 in making a deposit of € 242 to Account ID 23
+New balance in Account ID 31 is € 6432.0
+pool-1-thread-1 is helping Department ID 106 in making a withdrawal of € 297 from Account ID 17
+New balance in Account ID 23 is € 7403.0
+New balance in Account ID 11 is € 9882.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 189 from Account ID 39
+New balance in Account ID 17 is € 7332.0
+pool-1-thread-4 is helping Department ID 103 in making a withdrawal of € 293 from Account ID 31
+New balance in Account ID 39 is € 7995.0
+pool-1-thread-3 is helping Department ID 108 in making a withdrawal of € 171 from Account ID 6
+New balance in Account ID 31 is € 6139.0
+pool-1-thread-1 is helping Department ID 104 in making a transfer of € 385 from Account ID 27 to Account ID 43
+New balance in Account ID 6 is € 11169.0
+pool-1-thread-2 is helping Department ID 110 in making a deposit of € 422 to Account ID 34
+New balance in Account ID 27 is € 9692.0
+pool-1-thread-4 is helping Department ID 101 in making a deposit of € 384 to Account ID 25
+New balance in Account ID 43 is € 13445.0
+New balance in Account ID 34 is € 12013.0
+pool-1-thread-3 is helping Department ID 104 in making a deposit of € 491 to Account ID 25
+New balance in Account ID 25 is € 23200.0
+pool-1-thread-1 is helping Department ID 107 in making a deposit of € 455 to Account ID 34
+New balance in Account ID 25 is € 23691.0
+pool-1-thread-2 is helping Department ID 109 in making a withdrawal of € 394 from Account ID 44
+New balance in Account ID 34 is € 12468.0
+pool-1-thread-4 is helping Department ID 105 in making a transfer of € 193 from Account ID 4 to Account ID 30
+New balance in Account ID 44 is € 21541.0
+New balance in Account ID 4 is € 9160.0
+pool-1-thread-3 is helping Department ID 101 in making a transfer of € 182 from Account ID 12 to Account ID 36
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 491 from Account ID 2
+New balance in Account ID 12 is € 15662.0
+pool-1-thread-2 is helping Department ID 101 in making a deposit of € 276 to Account ID 12
+New balance in Account ID 30 is € 11546.0
+New balance in Account ID 2 is € 35558.0
+pool-1-thread-4 is helping Department ID 102 in making a deposit of € 378 to Account ID 8
+New balance in Account ID 36 is € 11768.0
+pool-1-thread-1 is helping Department ID 107 in making a withdrawal of € 400 from Account ID 25
+pool-1-thread-3 is helping Department ID 104 in making a withdrawal of € 256 from Account ID 32
+New balance in Account ID 12 is € 15938.0
+New balance in Account ID 8 is € 10950.0
+New balance in Account ID 32 is € 7807.0
+New balance in Account ID 25 is € 23291.0
+pool-1-thread-2 is helping Department ID 108 in making a transfer of € 440 from Account ID 26 to Account ID 24
+pool-1-thread-4 is helping Department ID 104 in making a transfer of € 328 from Account ID 4 to Account ID 24
+New balance in Account ID 26 is € 15215.0
+pool-1-thread-3 is helping Department ID 107 in making a withdrawal of € 419 from Account ID 43
+New balance in Account ID 4 is € 8832.0
+pool-1-thread-1 is helping Department ID 101 in making a deposit of € 451 to Account ID 49
+New balance in Account ID 24 is € 20089.0
+New balance in Account ID 24 is € 20417.0
+New balance in Account ID 49 is € 5553.0
+New balance in Account ID 43 is € 13026.0
+pool-1-thread-2 is helping Department ID 103 in making a transfer of € 181 from Account ID 15 to Account ID 49
+pool-1-thread-4 is helping Department ID 109 in making a transfer of € 266 from Account ID 6 to Account ID 48
+New balance in Account ID 15 is € 10734.0
+pool-1-thread-1 is helping Department ID 103 in making a transfer of € 303 from Account ID 10 to Account ID 29
+New balance in Account ID 49 is € 5734.0
+New balance in Account ID 6 is € 10903.0
+New balance in Account ID 10 is € 7590.0
+pool-1-thread-3 is helping Department ID 104 in making a transfer of € 466 from Account ID 11 to Account ID 3
+New balance in Account ID 48 is € 963.0
+New balance in Account ID 29 is € 16538.0
+pool-1-thread-2 is helping Department ID 108 in making a transfer of € 248 from Account ID 6 to Account ID 22
+New balance in Account ID 11 is € 9416.0
+New balance in Account ID 6 is € 10655.0
+pool-1-thread-4 is helping Department ID 105 in making a transfer of € 164 from Account ID 21 to Account ID 20
+New balance in Account ID 3 is € 16375.0
+New balance in Account ID 22 is € 5203.0
+pool-1-thread-1 is helping Department ID 105 in making a withdrawal of € 385 from Account ID 14
+New balance in Account ID 21 is € 16119.0
+New balance in Account ID 14 is € 2735.0
+pool-1-thread-3 is helping Department ID 102 in making a transfer of € 475 from Account ID 13 to Account ID 10
+New balance in Account ID 20 is € 4955.0
+New balance in Account ID 13 is € 2748.0
+pool-1-thread-2 is helping Department ID 104 in making a transfer of € 470 from Account ID 36 to Account ID 19
+pool-1-thread-1 is helping Department ID 105 in making a withdrawal of € 135 from Account ID 8
+New balance in Account ID 36 is € 11298.0
+New balance in Account ID 10 is € 8065.0
+New balance in Account ID 8 is € 10815.0
+pool-1-thread-4 is helping Department ID 103 in making a transfer of € 411 from Account ID 20 to Account ID 33
+New balance in Account ID 19 is € 4004.0
+pool-1-thread-3 is helping Department ID 107 in making a transfer of € 262 from Account ID 38 to Account ID 2
+New balance in Account ID 20 is € 4544.0
+New balance in Account ID 38 is € 648.0
+pool-1-thread-1 is helping Department ID 109 in making a deposit of € 475 to Account ID 26
+New balance in Account ID 2 is € 35820.0
+New balance in Account ID 33 is € 686.0
+New balance in Account ID 26 is € 15690.0
+pool-1-thread-2 is helping Department ID 106 in making a deposit of € 329 to Account ID 27
+pool-1-thread-3 is helping Department ID 102 in making a deposit of € 415 to Account ID 37
+New balance in Account ID 27 is € 10021.0
+pool-1-thread-4 is helping Department ID 108 in making a deposit of € 386 to Account ID 41
+New balance in Account ID 37 is € 7242.0
+pool-1-thread-1 is helping Department ID 103 in making a deposit of € 369 to Account ID 14
+New balance in Account ID 41 is € 18242.0
+pool-1-thread-2 is helping Department ID 106 in making a transfer of € 214 from Account ID 22 to Account ID 40
+New balance in Account ID 14 is € 3104.0
+pool-1-thread-3 is helping Department ID 105 in making a deposit of € 398 to Account ID 4
+New balance in Account ID 22 is € 4989.0
+New balance in Account ID 4 is € 9230.0
+pool-1-thread-4 is helping Department ID 110 in making a transfer of € 370 from Account ID 27 to Account ID 30
+New balance in Account ID 40 is € 7115.0
+pool-1-thread-1 is helping Department ID 110 in making a deposit of € 261 to Account ID 11
+New balance in Account ID 27 is € 9651.0
+pool-1-thread-3 is helping Department ID 102 in making a deposit of € 399 to Account ID 9
+New balance in Account ID 11 is € 9677.0
+New balance in Account ID 30 is € 11916.0
+New balance in Account ID 9 is € 9257.0
+pool-1-thread-2 is helping Department ID 109 in making a transfer of € 269 from Account ID 26 to Account ID 7
+pool-1-thread-1 is helping Department ID 101 in making a deposit of € 307 to Account ID 32
+New balance in Account ID 26 is € 15421.0
+pool-1-thread-4 is helping Department ID 107 in making a withdrawal of € 131 from Account ID 49
+New balance in Account ID 32 is € 8114.0
+New balance in Account ID 49 is € 5603.0
+New balance in Account ID 7 is € 15775.0
+pool-1-thread-3 is helping Department ID 101 in making a transfer of € 191 from Account ID 32 to Account ID 31
+pool-1-thread-1 is helping Department ID 104 in making a withdrawal of € 440 from Account ID 39
+pool-1-thread-4 is helping Department ID 103 in making a deposit of € 121 to Account ID 40
+New balance in Account ID 32 is € 7923.0
+New balance in Account ID 39 is € 7555.0
+pool-1-thread-2 is helping Department ID 107 in making a transfer of € 484 from Account ID 38 to Account ID 43
+New balance in Account ID 40 is € 7236.0
+New balance in Account ID 31 is € 6330.0
+New balance in Account ID 38 is € 164.0
+pool-1-thread-1 is helping Department ID 110 in making a transfer of € 207 from Account ID 28 to Account ID 9
+New balance in Account ID 43 is € 13510.0
+New balance in Account ID 28 is € 1888.0
+pool-1-thread-4 is helping Department ID 108 in making a transfer of € 291 from Account ID 49 to Account ID 44
+pool-1-thread-3 is helping Department ID 106 in making a withdrawal of € 318 from Account ID 39
+New balance in Account ID 9 is € 9464.0
+New balance in Account ID 49 is € 5312.0
+New balance in Account ID 39 is € 7237.0
+pool-1-thread-2 is helping Department ID 102 in making a transfer of € 128 from Account ID 6 to Account ID 39
+New balance in Account ID 44 is € 21832.0
+pool-1-thread-1 is helping Department ID 104 in making a withdrawal of € 314 from Account ID 41
+New balance in Account ID 6 is € 10527.0
+New balance in Account ID 41 is € 17928.0
+pool-1-thread-3 is helping Department ID 101 in making a transfer of € 209 from Account ID 29 to Account ID 35
+New balance in Account ID 39 is € 7365.0
+pool-1-thread-4 is helping Department ID 104 in making a withdrawal of € 198 from Account ID 9
+New balance in Account ID 29 is € 16329.0
+pool-1-thread-1 is helping Department ID 102 in making a withdrawal of € 224 from Account ID 36
+New balance in Account ID 9 is € 9266.0
+New balance in Account ID 35 is € 16386.0
+pool-1-thread-2 is helping Department ID 104 in making a deposit of € 354 to Account ID 10
+New balance in Account ID 36 is € 11074.0
+New balance in Account ID 10 is € 8419.0
+pool-1-thread-4 is helping Department ID 104 in making a transfer of € 477 from Account ID 16 to Account ID 38
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 188 from Account ID 6 to Account ID 16
+New balance in Account ID 16 is € 6685.0
+pool-1-thread-1 is helping Department ID 103 in making a withdrawal of € 290 from Account ID 21
+New balance in Account ID 6 is € 10339.0
+New balance in Account ID 38 is € 641.0
+New balance in Account ID 21 is € 15829.0
+pool-1-thread-2 is helping Department ID 108 in making a transfer of € 403 from Account ID 42 to Account ID 40
+New balance in Account ID 16 is € 6873.0
+pool-1-thread-4 is helping Department ID 101 in making a deposit of € 471 to Account ID 37
+New balance in Account ID 42 is € 4517.0
+pool-1-thread-1 is helping Department ID 105 in making a deposit of € 447 to Account ID 38
+New balance in Account ID 37 is € 7713.0
+New balance in Account ID 40 is € 7639.0
+pool-1-thread-3 is helping Department ID 105 in making a withdrawal of € 347 from Account ID 39
+New balance in Account ID 38 is € 1088.0
+pool-1-thread-4 is helping Department ID 101 in making a deposit of € 225 to Account ID 38
+pool-1-thread-2 is helping Department ID 102 in making a deposit of € 213 to Account ID 50
+pool-1-thread-1 is helping Department ID 109 in making a transfer of € 305 from Account ID 24 to Account ID 26
+New balance in Account ID 24 is € 20112.0
+New balance in Account ID 50 is € 4637.0
+pool-1-thread-2 is helping Department ID 103 in making a transfer of € 403 from Account ID 28 to Account ID 18
+New balance in Account ID 38 is € 1313.0
+pool-1-thread-4 is helping Department ID 103 in making a deposit of € 265 to Account ID 49
+New balance in Account ID 39 is € 7018.0
+pool-1-thread-3 is helping Department ID 105 in making a deposit of € 132 to Account ID 11
+New balance in Account ID 26 is € 15726.0
+pool-1-thread-1 is helping Department ID 110 in making a transfer of € 207 from Account ID 39 to Account ID 10
+New balance in Account ID 49 is € 5577.0
+pool-1-thread-4 is helping Department ID 109 in making a withdrawal of € 160 from Account ID 12
+New balance in Account ID 28 is € 1485.0
+New balance in Account ID 11 is € 9809.0
+pool-1-thread-3 is helping Department ID 106 in making a deposit of € 225 to Account ID 11
+New balance in Account ID 12 is € 15778.0
+pool-1-thread-4 is helping Department ID 106 in making a deposit of € 454 to Account ID 45
+New balance in Account ID 39 is € 6811.0
+New balance in Account ID 18 is € 20654.0
+pool-1-thread-2 is helping Department ID 109 in making a withdrawal of € 192 from Account ID 20
+New balance in Account ID 45 is € 4360.0
+pool-1-thread-4 is helping Department ID 104 in making a withdrawal of € 233 from Account ID 43
+New balance in Account ID 11 is € 10034.0
+pool-1-thread-3 is helping Department ID 109 in making a withdrawal of € 158 from Account ID 20
+New balance in Account ID 10 is € 8626.0
+pool-1-thread-1 is helping Department ID 105 in making a transfer of € 373 from Account ID 6 to Account ID 50
+New balance in Account ID 20 is € 4352.0
+pool-1-thread-2 is helping Department ID 105 in making a transfer of € 313 from Account ID 17 to Account ID 23
+New balance in Account ID 43 is € 13277.0
+pool-1-thread-4 is helping Department ID 106 in making a withdrawal of € 245 from Account ID 39
+New balance in Account ID 17 is € 7019.0
+New balance in Account ID 6 is € 9966.0
+New balance in Account ID 20 is € 4194.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 251 from Account ID 42 to Account ID 13
+New balance in Account ID 23 is € 7716.0
+New balance in Account ID 50 is € 5010.0
+New balance in Account ID 39 is € 6566.0
+pool-1-thread-2 is helping Department ID 104 in making a withdrawal of € 202 from Account ID 50
+New balance in Account ID 42 is € 4266.0
+pool-1-thread-1 is helping Department ID 108 in making a deposit of € 218 to Account ID 24
+New balance in Account ID 50 is € 4808.0
+New balance in Account ID 13 is € 2999.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 226 from Account ID 23 to Account ID 3
+New balance in Account ID 24 is € 20330.0
+pool-1-thread-2 is helping Department ID 106 in making a withdrawal of € 271 from Account ID 31
+New balance in Account ID 23 is € 7490.0
+pool-1-thread-3 is helping Department ID 104 in making a deposit of € 398 to Account ID 41
+New balance in Account ID 3 is € 16601.0
+New balance in Account ID 31 is € 6059.0
+pool-1-thread-1 is helping Department ID 103 in making a withdrawal of € 318 from Account ID 37
+New balance in Account ID 41 is € 18326.0
+pool-1-thread-4 is helping Department ID 103 in making a withdrawal of € 263 from Account ID 45
+New balance in Account ID 37 is € 7395.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 363 to Account ID 1
+New balance in Account ID 45 is € 4097.0
+pool-1-thread-3 is helping Department ID 102 in making a withdrawal of € 332 from Account ID 40
+New balance in Account ID 1 is € 23410.0
+pool-1-thread-1 is helping Department ID 107 in making a deposit of € 113 to Account ID 14
+New balance in Account ID 40 is € 7307.0
+pool-1-thread-4 is helping Department ID 105 in making a withdrawal of € 187 from Account ID 24
+New balance in Account ID 14 is € 3217.0
+pool-1-thread-2 is helping Department ID 108 in making a withdrawal of € 324 from Account ID 42
+New balance in Account ID 24 is € 20143.0
+pool-1-thread-3 is helping Department ID 103 in making a transfer of € 319 from Account ID 40 to Account ID 4
+New balance in Account ID 42 is € 3942.0
+pool-1-thread-1 is helping Department ID 105 in making a deposit of € 264 to Account ID 20
+New balance in Account ID 40 is € 6988.0
+pool-1-thread-4 is helping Department ID 107 in making a withdrawal of € 444 from Account ID 38
+New balance in Account ID 20 is € 4458.0
+New balance in Account ID 4 is € 9549.0
+New balance in Account ID 38 is € 869.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 493 to Account ID 49
+pool-1-thread-1 is helping Department ID 104 in making a withdrawal of € 190 from Account ID 36
+New balance in Account ID 49 is € 6070.0
+New balance in Account ID 36 is € 10884.0
+pool-1-thread-3 is helping Department ID 107 in making a transfer of € 485 from Account ID 21 to Account ID 42
+pool-1-thread-4 is helping Department ID 107 in making a transfer of € 443 from Account ID 38 to Account ID 30
+New balance in Account ID 21 is € 15344.0
+pool-1-thread-2 is helping Department ID 110 in making a deposit of € 239 to Account ID 33
+New balance in Account ID 38 is € 426.0
+New balance in Account ID 42 is € 4427.0
+New balance in Account ID 33 is € 925.0
+pool-1-thread-1 is helping Department ID 101 in making a deposit of € 306 to Account ID 30
+New balance in Account ID 30 is € 12359.0
+pool-1-thread-3 is helping Department ID 107 in making a deposit of € 397 to Account ID 46
+New balance in Account ID 30 is € 12665.0
+New balance in Account ID 46 is € 10022.0
+pool-1-thread-2 is helping Department ID 102 in making a transfer of € 184 from Account ID 2 to Account ID 39
+pool-1-thread-4 is helping Department ID 105 in making a deposit of € 436 to Account ID 28
+New balance in Account ID 2 is € 35636.0
+New balance in Account ID 28 is € 1921.0
+pool-1-thread-1 is helping Department ID 101 in making a transfer of € 415 from Account ID 13 to Account ID 46
+New balance in Account ID 39 is € 6750.0
+pool-1-thread-3 is helping Department ID 102 in making a deposit of € 162 to Account ID 38
+New balance in Account ID 13 is € 2584.0
+pool-1-thread-4 is helping Department ID 110 in making a withdrawal of € 290 from Account ID 41
+New balance in Account ID 38 is € 588.0
+New balance in Account ID 46 is € 10437.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 224 to Account ID 18
+New balance in Account ID 41 is € 18036.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 100 from Account ID 14
+New balance in Account ID 18 is € 20878.0
+pool-1-thread-1 is helping Department ID 101 in making a deposit of € 163 to Account ID 14
+New balance in Account ID 14 is € 3117.0
+pool-1-thread-4 is helping Department ID 107 in making a withdrawal of € 164 from Account ID 26
+pool-1-thread-2 is helping Department ID 107 in making a deposit of € 223 to Account ID 48
+New balance in Account ID 14 is € 3280.0
+New balance in Account ID 26 is € 15562.0
+pool-1-thread-3 is helping Department ID 105 in making a withdrawal of € 192 from Account ID 10
+New balance in Account ID 48 is € 1186.0
+pool-1-thread-1 is helping Department ID 102 in making a deposit of € 246 to Account ID 33
+New balance in Account ID 10 is € 8434.0
+pool-1-thread-4 is helping Department ID 103 in making a withdrawal of € 169 from Account ID 29
+New balance in Account ID 33 is € 1171.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 171 to Account ID 46
+New balance in Account ID 29 is € 16160.0
+pool-1-thread-3 is helping Department ID 109 in making a withdrawal of € 197 from Account ID 12
+New balance in Account ID 46 is € 10608.0
+pool-1-thread-1 is helping Department ID 105 in making a withdrawal of € 167 from Account ID 44
+New balance in Account ID 12 is € 15581.0
+pool-1-thread-4 is helping Department ID 104 in making a deposit of € 143 to Account ID 41
+New balance in Account ID 44 is € 21665.0
+pool-1-thread-2 is helping Department ID 105 in making a transfer of € 171 from Account ID 38 to Account ID 11
+New balance in Account ID 41 is € 18179.0
+pool-1-thread-3 is helping Department ID 105 in making a transfer of € 172 from Account ID 7 to Account ID 2
+New balance in Account ID 38 is € 417.0
+pool-1-thread-1 is helping Department ID 109 in making a deposit of € 335 to Account ID 35
+New balance in Account ID 11 is € 10205.0
+New balance in Account ID 7 is € 15603.0
+pool-1-thread-4 is helping Department ID 110 in making a transfer of € 388 from Account ID 4 to Account ID 25
+New balance in Account ID 35 is € 16721.0
+pool-1-thread-2 is helping Department ID 107 in making a withdrawal of € 379 from Account ID 11
+New balance in Account ID 4 is € 9161.0
+pool-1-thread-1 is helping Department ID 108 in making a withdrawal of € 419 from Account ID 20
+New balance in Account ID 2 is € 35808.0
+New balance in Account ID 11 is € 9826.0
+pool-1-thread-3 is helping Department ID 101 in making a transfer of € 223 from Account ID 9 to Account ID 3
+New balance in Account ID 20 is € 4039.0
+pool-1-thread-2 is helping Department ID 101 in making a deposit of € 142 to Account ID 13
+New balance in Account ID 25 is € 23679.0
+New balance in Account ID 9 is € 9043.0
+pool-1-thread-1 is helping Department ID 108 in making a deposit of € 370 to Account ID 49
+pool-1-thread-4 is helping Department ID 101 in making a deposit of € 398 to Account ID 31
+New balance in Account ID 13 is € 2726.0
+New balance in Account ID 49 is € 6440.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 465 to Account ID 32
+New balance in Account ID 31 is € 6457.0
+New balance in Account ID 3 is € 16824.0
+pool-1-thread-1 is helping Department ID 108 in making a deposit of € 462 to Account ID 1
+pool-1-thread-4 is helping Department ID 102 in making a deposit of € 311 to Account ID 15
+New balance in Account ID 32 is € 8388.0
+New balance in Account ID 1 is € 23872.0
+pool-1-thread-3 is helping Department ID 109 in making a transfer of € 404 from Account ID 47 to Account ID 18
+pool-1-thread-2 is helping Department ID 105 in making a deposit of € 267 to Account ID 37
+New balance in Account ID 15 is € 11045.0
+pool-1-thread-1 is helping Department ID 105 in making a withdrawal of € 437 from Account ID 19
+New balance in Account ID 37 is € 7662.0
+New balance in Account ID 47 is € 12964.0
+pool-1-thread-4 is helping Department ID 103 in making a transfer of € 179 from Account ID 15 to Account ID 32
+pool-1-thread-2 is helping Department ID 109 in making a withdrawal of € 385 from Account ID 3
+New balance in Account ID 19 is € 3567.0
+New balance in Account ID 18 is € 21282.0
+pool-1-thread-1 is helping Department ID 102 in making a withdrawal of € 209 from Account ID 50
+New balance in Account ID 15 is € 10866.0
+New balance in Account ID 3 is € 16439.0
+New balance in Account ID 50 is € 4599.0
+pool-1-thread-3 is helping Department ID 106 in making a deposit of € 481 to Account ID 24
+New balance in Account ID 32 is € 8567.0
+New balance in Account ID 24 is € 20624.0
+pool-1-thread-2 is helping Department ID 101 in making a transfer of € 139 from Account ID 47 to Account ID 38
+pool-1-thread-1 is helping Department ID 102 in making a withdrawal of € 341 from Account ID 38
+New balance in Account ID 47 is € 12825.0
+New balance in Account ID 38 is € 76.0
+pool-1-thread-4 is helping Department ID 109 in making a transfer of € 486 from Account ID 27 to Account ID 2
+New balance in Account ID 38 is € 556.0
+pool-1-thread-3 is helping Department ID 102 in making a withdrawal of € 306 from Account ID 43
+New balance in Account ID 27 is € 9165.0
+New balance in Account ID 43 is € 12971.0
+pool-1-thread-1 is helping Department ID 105 in making a deposit of € 427 to Account ID 18
+New balance in Account ID 2 is € 36294.0
+New balance in Account ID 18 is € 21709.0
+pool-1-thread-2 is helping Department ID 108 in making a transfer of € 393 from Account ID 48 to Account ID 17
+pool-1-thread-3 is helping Department ID 106 in making a deposit of € 186 to Account ID 6
+pool-1-thread-4 is helping Department ID 110 in making a withdrawal of € 414 from Account ID 49
+New balance in Account ID 48 is € 793.0
+pool-1-thread-1 is helping Department ID 110 in making a withdrawal of € 411 from Account ID 30
+New balance in Account ID 49 is € 6026.0
+New balance in Account ID 6 is € 10152.0
+pool-1-thread-4 is helping Department ID 103 in making a withdrawal of € 259 from Account ID 13
+New balance in Account ID 30 is € 12254.0
+pool-1-thread-3 is helping Department ID 103 in making a deposit of € 499 to Account ID 30
+New balance in Account ID 17 is € 7412.0
+New balance in Account ID 13 is € 2467.0
+pool-1-thread-1 is helping Department ID 102 in making a transfer of € 439 from Account ID 5 to Account ID 27
+New balance in Account ID 30 is € 12753.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 466 to Account ID 2
+pool-1-thread-4 is helping Department ID 109 in making a deposit of € 428 to Account ID 4
+New balance in Account ID 5 is € 18574.0
+pool-1-thread-3 is helping Department ID 101 in making a deposit of € 443 to Account ID 31
+New balance in Account ID 4 is € 9589.0
+New balance in Account ID 2 is € 36760.0
+pool-1-thread-4 is helping Department ID 103 in making a deposit of € 162 to Account ID 26
+New balance in Account ID 31 is € 6900.0
+pool-1-thread-2 is helping Department ID 109 in making a deposit of € 355 to Account ID 42
+New balance in Account ID 27 is € 9604.0
+New balance in Account ID 26 is € 15724.0
+pool-1-thread-3 is helping Department ID 102 in making a withdrawal of € 202 from Account ID 26
+New balance in Account ID 42 is € 4782.0
+pool-1-thread-1 is helping Department ID 102 in making a deposit of € 323 to Account ID 32
+pool-1-thread-4 is helping Department ID 110 in making a withdrawal of € 347 from Account ID 12
+pool-1-thread-2 is helping Department ID 102 in making a transfer of € 314 from Account ID 21 to Account ID 12
+New balance in Account ID 32 is € 8890.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 334 from Account ID 36
+New balance in Account ID 26 is € 15522.0
+pool-1-thread-3 is helping Department ID 103 in making a withdrawal of € 198 from Account ID 12
+New balance in Account ID 21 is € 15030.0
+New balance in Account ID 12 is € 15234.0
+pool-1-thread-4 is helping Department ID 108 in making a deposit of € 164 to Account ID 48
+New balance in Account ID 12 is € 15548.0
+pool-1-thread-2 is helping Department ID 105 in making a deposit of € 340 to Account ID 33
+New balance in Account ID 36 is € 10550.0
+pool-1-thread-1 is helping Department ID 109 in making a transfer of € 279 from Account ID 14 to Account ID 35
+New balance in Account ID 48 is € 957.0
+pool-1-thread-4 is helping Department ID 107 in making a deposit of € 285 to Account ID 8
+New balance in Account ID 12 is € 15350.0
+pool-1-thread-3 is helping Department ID 108 in making a withdrawal of € 490 from Account ID 31
+New balance in Account ID 33 is € 1511.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 109 to Account ID 14
+New balance in Account ID 8 is € 11100.0
+New balance in Account ID 14 is € 3001.0
+New balance in Account ID 31 is € 6410.0
+pool-1-thread-4 is helping Department ID 108 in making a transfer of € 421 from Account ID 34 to Account ID 24
+pool-1-thread-3 is helping Department ID 108 in making a withdrawal of € 122 from Account ID 34
+New balance in Account ID 34 is € 12047.0
+New balance in Account ID 35 is € 17000.0
+pool-1-thread-1 is helping Department ID 101 in making a deposit of € 212 to Account ID 40
+New balance in Account ID 14 is € 3110.0
+pool-1-thread-2 is helping Department ID 105 in making a transfer of € 453 from Account ID 13 to Account ID 32
+New balance in Account ID 24 is € 21045.0
+pool-1-thread-4 is helping Department ID 107 in making a withdrawal of € 119 from Account ID 16
+New balance in Account ID 40 is € 7200.0
+New balance in Account ID 13 is € 2014.0
+pool-1-thread-1 is helping Department ID 107 in making a deposit of € 294 to Account ID 45
+New balance in Account ID 34 is € 11925.0
+pool-1-thread-3 is helping Department ID 104 in making a deposit of € 394 to Account ID 17
+New balance in Account ID 16 is € 6754.0
+pool-1-thread-4 is helping Department ID 110 in making a deposit of € 195 to Account ID 2
+New balance in Account ID 45 is € 4391.0
+New balance in Account ID 17 is € 7806.0
+New balance in Account ID 32 is € 9343.0
+New balance in Account ID 2 is € 36955.0
+pool-1-thread-1 is helping Department ID 109 in making a transfer of € 342 from Account ID 36 to Account ID 22
+pool-1-thread-3 is helping Department ID 109 in making a withdrawal of € 295 from Account ID 20
+New balance in Account ID 36 is € 10208.0
+pool-1-thread-2 is helping Department ID 105 in making a deposit of € 370 to Account ID 13
+New balance in Account ID 20 is € 3744.0
+New balance in Account ID 22 is € 5331.0
+pool-1-thread-4 is helping Department ID 110 in making a transfer of € 238 from Account ID 29 to Account ID 5
+New balance in Account ID 13 is € 2384.0
+pool-1-thread-3 is helping Department ID 104 in making a transfer of € 183 from Account ID 47 to Account ID 5
+New balance in Account ID 29 is € 15922.0
+pool-1-thread-1 is helping Department ID 108 in making a deposit of € 451 to Account ID 40
+New balance in Account ID 47 is € 12642.0
+New balance in Account ID 5 is € 18757.0
+New balance in Account ID 40 is € 7651.0
+pool-1-thread-2 is helping Department ID 105 in making a withdrawal of € 323 from Account ID 46
+New balance in Account ID 5 is € 18757.0
+pool-1-thread-4 is helping Department ID 108 in making a withdrawal of € 226 from Account ID 11
+New balance in Account ID 46 is € 10285.0
+pool-1-thread-1 is helping Department ID 102 in making a transfer of € 131 from Account ID 18 to Account ID 29
+New balance in Account ID 11 is € 9600.0
+pool-1-thread-3 is helping Department ID 107 in making a withdrawal of € 193 from Account ID 39
+New balance in Account ID 18 is € 21578.0
+pool-1-thread-2 is helping Department ID 101 in making a deposit of € 163 to Account ID 21
+New balance in Account ID 39 is € 6557.0
+New balance in Account ID 29 is € 16053.0
+New balance in Account ID 21 is € 15193.0
+pool-1-thread-4 is helping Department ID 102 in making a transfer of € 125 from Account ID 18 to Account ID 27
+pool-1-thread-3 is helping Department ID 109 in making a transfer of € 223 from Account ID 5 to Account ID 8
+pool-1-thread-1 is helping Department ID 107 in making a deposit of € 272 to Account ID 28
+New balance in Account ID 18 is € 21453.0
+pool-1-thread-2 is helping Department ID 108 in making a withdrawal of € 225 from Account ID 46
+New balance in Account ID 5 is € 18534.0
+New balance in Account ID 28 is € 2193.0
+New balance in Account ID 46 is € 10060.0
+pool-1-thread-1 is helping Department ID 110 in making a transfer of € 303 from Account ID 44 to Account ID 37
+New balance in Account ID 27 is € 9729.0
+pool-1-thread-2 is helping Department ID 103 in making a withdrawal of € 139 from Account ID 4
+pool-1-thread-4 is helping Department ID 101 in making a deposit of € 348 to Account ID 16
+New balance in Account ID 8 is € 11323.0
+New balance in Account ID 44 is € 21362.0
+pool-1-thread-3 is helping Department ID 105 in making a withdrawal of € 187 from Account ID 22
+New balance in Account ID 4 is € 9450.0
+New balance in Account ID 16 is € 7102.0
+New balance in Account ID 37 is € 7965.0
+New balance in Account ID 22 is € 5144.0
+pool-1-thread-2 is helping Department ID 109 in making a deposit of € 311 to Account ID 4
+pool-1-thread-4 is helping Department ID 108 in making a withdrawal of € 151 from Account ID 12
+New balance in Account ID 4 is € 9761.0
+pool-1-thread-1 is helping Department ID 108 in making a withdrawal of € 366 from Account ID 12
+New balance in Account ID 12 is € 15199.0
+pool-1-thread-3 is helping Department ID 107 in making a transfer of € 172 from Account ID 1 to Account ID 33
+New balance in Account ID 12 is € 14833.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 494 to Account ID 26
+New balance in Account ID 1 is € 23700.0
+New balance in Account ID 26 is € 16016.0
+pool-1-thread-4 is helping Department ID 101 in making a transfer of € 444 from Account ID 21 to Account ID 17
+New balance in Account ID 33 is € 1683.0
+New balance in Account ID 21 is € 14749.0
+pool-1-thread-1 is helping Department ID 110 in making a withdrawal of € 465 from Account ID 40
+pool-1-thread-2 is helping Department ID 104 in making a deposit of € 271 to Account ID 45
+New balance in Account ID 40 is € 7186.0
+New balance in Account ID 17 is € 8250.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 320 from Account ID 44 to Account ID 2
+New balance in Account ID 45 is € 4662.0
+pool-1-thread-1 is helping Department ID 101 in making a transfer of € 247 from Account ID 5 to Account ID 40
+New balance in Account ID 44 is € 21042.0
+pool-1-thread-4 is helping Department ID 105 in making a withdrawal of € 134 from Account ID 1
+New balance in Account ID 5 is € 18287.0
+New balance in Account ID 2 is € 37275.0
+New balance in Account ID 1 is € 23566.0
+New balance in Account ID 40 is € 7433.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 347 to Account ID 45
+pool-1-thread-3 is helping Department ID 106 in making a withdrawal of € 111 from Account ID 15
+New balance in Account ID 45 is € 5009.0
+pool-1-thread-4 is helping Department ID 103 in making a transfer of € 270 from Account ID 15 to Account ID 5
+New balance in Account ID 15 is € 10755.0
+pool-1-thread-1 is helping Department ID 110 in making a withdrawal of € 407 from Account ID 35
+New balance in Account ID 15 is € 10485.0
+pool-1-thread-2 is helping Department ID 103 in making a deposit of € 127 to Account ID 38
+New balance in Account ID 35 is € 16593.0
+New balance in Account ID 5 is € 18557.0
+New balance in Account ID 38 is € 683.0
+pool-1-thread-3 is helping Department ID 109 in making a transfer of € 454 from Account ID 21 to Account ID 12
+pool-1-thread-1 is helping Department ID 108 in making a deposit of € 213 to Account ID 43
+New balance in Account ID 21 is € 14295.0
+New balance in Account ID 43 is € 13184.0
+New balance in Account ID 12 is € 15287.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 482 from Account ID 29 to Account ID 37
+pool-1-thread-2 is helping Department ID 110 in making a deposit of € 389 to Account ID 15
+pool-1-thread-1 is helping Department ID 109 in making a withdrawal of € 305 from Account ID 25
+New balance in Account ID 29 is € 15571.0
+New balance in Account ID 15 is € 10874.0
+pool-1-thread-3 is helping Department ID 101 in making a transfer of € 446 from Account ID 19 to Account ID 28
+New balance in Account ID 25 is € 23374.0
+New balance in Account ID 37 is € 8447.0
+New balance in Account ID 19 is € 3121.0
+pool-1-thread-2 is helping Department ID 109 in making a transfer of € 223 from Account ID 27 to Account ID 45
+pool-1-thread-1 is helping Department ID 106 in making a deposit of € 274 to Account ID 35
+New balance in Account ID 28 is € 2639.0
+New balance in Account ID 27 is € 9506.0
+New balance in Account ID 35 is € 16867.0
+pool-1-thread-4 is helping Department ID 109 in making a deposit of € 263 to Account ID 24
+New balance in Account ID 45 is € 5232.0
+pool-1-thread-3 is helping Department ID 103 in making a deposit of € 314 to Account ID 4
+New balance in Account ID 24 is € 21308.0
+pool-1-thread-1 is helping Department ID 106 in making a withdrawal of € 461 from Account ID 43
+New balance in Account ID 4 is € 10075.0
+New balance in Account ID 43 is € 12723.0
+pool-1-thread-2 is helping Department ID 104 in making a transfer of € 486 from Account ID 39 to Account ID 6
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 267 from Account ID 24
+New balance in Account ID 39 is € 6071.0
+New balance in Account ID 24 is € 21041.0
+pool-1-thread-3 is helping Department ID 106 in making a withdrawal of € 211 from Account ID 2
+New balance in Account ID 6 is € 10638.0
+New balance in Account ID 2 is € 37064.0
+pool-1-thread-1 is helping Department ID 108 in making a transfer of € 262 from Account ID 3 to Account ID 31
+pool-1-thread-4 is helping Department ID 109 in making a withdrawal of € 102 from Account ID 23
+pool-1-thread-2 is helping Department ID 103 in making a deposit of € 293 to Account ID 50
+New balance in Account ID 3 is € 16177.0
+New balance in Account ID 23 is € 7388.0
+pool-1-thread-3 is helping Department ID 107 in making a withdrawal of € 146 from Account ID 41
+New balance in Account ID 50 is € 4892.0
+New balance in Account ID 31 is € 6672.0
+New balance in Account ID 41 is € 18033.0
+pool-1-thread-4 is helping Department ID 106 in making a deposit of € 294 to Account ID 27
+pool-1-thread-2 is helping Department ID 104 in making a withdrawal of € 375 from Account ID 28
+New balance in Account ID 27 is € 9800.0
+New balance in Account ID 28 is € 2264.0
+pool-1-thread-1 is helping Department ID 108 in making a transfer of € 350 from Account ID 27 to Account ID 11
+pool-1-thread-3 is helping Department ID 109 in making a deposit of € 361 to Account ID 10
+New balance in Account ID 27 is € 9450.0
+New balance in Account ID 10 is € 8795.0
+pool-1-thread-4 is helping Department ID 109 in making a transfer of € 117 from Account ID 10 to Account ID 6
+New balance in Account ID 11 is € 9950.0
+pool-1-thread-2 is helping Department ID 104 in making a deposit of € 482 to Account ID 14
+New balance in Account ID 10 is € 8678.0
+pool-1-thread-3 is helping Department ID 105 in making a deposit of € 215 to Account ID 4
+New balance in Account ID 6 is € 10755.0
+New balance in Account ID 14 is € 3592.0
+New balance in Account ID 4 is € 10290.0
+pool-1-thread-1 is helping Department ID 107 in making a deposit of € 188 to Account ID 44
+pool-1-thread-4 is helping Department ID 104 in making a deposit of € 278 to Account ID 25
+New balance in Account ID 44 is € 21230.0
+New balance in Account ID 25 is € 23652.0
+pool-1-thread-2 is helping Department ID 106 in making a transfer of € 499 from Account ID 16 to Account ID 24
+pool-1-thread-3 is helping Department ID 103 in making a withdrawal of € 377 from Account ID 47
+pool-1-thread-1 is helping Department ID 110 in making a deposit of € 105 to Account ID 48
+New balance in Account ID 16 is € 6603.0
+New balance in Account ID 47 is € 12265.0
+pool-1-thread-4 is helping Department ID 108 in making a withdrawal of € 191 from Account ID 16
+New balance in Account ID 48 is € 1062.0
+pool-1-thread-3 is helping Department ID 102 in making a withdrawal of € 107 from Account ID 6
+New balance in Account ID 24 is € 21540.0
+pool-1-thread-1 is helping Department ID 101 in making a deposit of € 380 to Account ID 19
+New balance in Account ID 6 is € 10648.0
+New balance in Account ID 16 is € 6412.0
+pool-1-thread-2 is helping Department ID 105 in making a transfer of € 372 from Account ID 27 to Account ID 28
+New balance in Account ID 19 is € 3501.0
+pool-1-thread-3 is helping Department ID 106 in making a withdrawal of € 227 from Account ID 23
+pool-1-thread-4 is helping Department ID 110 in making a transfer of € 355 from Account ID 43 to Account ID 27
+pool-1-thread-1 is helping Department ID 106 in making a deposit of € 300 to Account ID 28
+New balance in Account ID 23 is € 7161.0
+pool-1-thread-3 is helping Department ID 110 in making a withdrawal of € 249 from Account ID 9
+New balance in Account ID 27 is € 9078.0
+New balance in Account ID 28 is € 2564.0
+pool-1-thread-1 is helping Department ID 110 in making a transfer of € 341 from Account ID 25 to Account ID 17
+New balance in Account ID 43 is € 12368.0
+New balance in Account ID 25 is € 23311.0
+New balance in Account ID 9 is € 8794.0
+pool-1-thread-3 is helping Department ID 109 in making a withdrawal of € 126 from Account ID 12
+New balance in Account ID 28 is € 2936.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 252 from Account ID 38
+New balance in Account ID 17 is € 8591.0
+pool-1-thread-1 is helping Department ID 110 in making a withdrawal of € 388 from Account ID 5
+New balance in Account ID 27 is € 9433.0
+pool-1-thread-4 is helping Department ID 106 in making a withdrawal of € 246 from Account ID 2
+New balance in Account ID 12 is € 15161.0
+pool-1-thread-3 is helping Department ID 109 in making a transfer of € 256 from Account ID 39 to Account ID 45
+New balance in Account ID 2 is € 36818.0
+pool-1-thread-4 is helping Department ID 108 in making a deposit of € 173 to Account ID 6
+New balance in Account ID 5 is € 18169.0
+pool-1-thread-1 is helping Department ID 104 in making a withdrawal of € 214 from Account ID 38
+New balance in Account ID 38 is € 431.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 409 from Account ID 28
+New balance in Account ID 6 is € 10821.0
+pool-1-thread-4 is helping Department ID 102 in making a withdrawal of € 340 from Account ID 20
+New balance in Account ID 39 is € 5815.0
+New balance in Account ID 38 is € 217.0
+pool-1-thread-1 is helping Department ID 104 in making a deposit of € 154 to Account ID 11
+New balance in Account ID 28 is € 2527.0
+pool-1-thread-2 is helping Department ID 110 in making a transfer of € 281 from Account ID 29 to Account ID 10
+New balance in Account ID 45 is € 5488.0
+pool-1-thread-3 is helping Department ID 103 in making a deposit of € 255 to Account ID 23
+New balance in Account ID 20 is € 3404.0
+pool-1-thread-4 is helping Department ID 110 in making a transfer of € 309 from Account ID 12 to Account ID 2
+New balance in Account ID 11 is € 10104.0
+pool-1-thread-1 is helping Department ID 108 in making a transfer of € 396 from Account ID 14 to Account ID 47
+New balance in Account ID 12 is € 14852.0
+New balance in Account ID 23 is € 7416.0
+pool-1-thread-3 is helping Department ID 104 in making a deposit of € 109 to Account ID 13
+New balance in Account ID 29 is € 15290.0
+New balance in Account ID 10 is € 8959.0
+pool-1-thread-2 is helping Department ID 102 in making a deposit of € 256 to Account ID 20
+New balance in Account ID 13 is € 2493.0
+New balance in Account ID 2 is € 37127.0
+pool-1-thread-3 is helping Department ID 107 in making a deposit of € 303 to Account ID 13
+New balance in Account ID 14 is € 3196.0
+New balance in Account ID 20 is € 3660.0
+New balance in Account ID 13 is € 2796.0
+pool-1-thread-4 is helping Department ID 105 in making a transfer of € 329 from Account ID 24 to Account ID 18
+New balance in Account ID 47 is € 12661.0
+pool-1-thread-2 is helping Department ID 101 in making a deposit of € 149 to Account ID 6
+New balance in Account ID 24 is € 21211.0
+pool-1-thread-3 is helping Department ID 109 in making a deposit of € 281 to Account ID 4
+New balance in Account ID 6 is € 10970.0
+New balance in Account ID 18 is € 21782.0
+New balance in Account ID 4 is € 10571.0
+pool-1-thread-1 is helping Department ID 101 in making a transfer of € 170 from Account ID 14 to Account ID 47
+pool-1-thread-2 is helping Department ID 104 in making a withdrawal of € 378 from Account ID 30
+New balance in Account ID 14 is € 3026.0
+pool-1-thread-4 is helping Department ID 108 in making a withdrawal of € 432 from Account ID 26
+New balance in Account ID 30 is € 12375.0
+New balance in Account ID 47 is € 12831.0
+pool-1-thread-3 is helping Department ID 106 in making a deposit of € 272 to Account ID 47
+New balance in Account ID 26 is € 15584.0
+pool-1-thread-2 is helping Department ID 110 in making a withdrawal of € 149 from Account ID 20
+New balance in Account ID 47 is € 13103.0
+pool-1-thread-1 is helping Department ID 108 in making a deposit of € 426 to Account ID 18
+New balance in Account ID 20 is € 3511.0
+pool-1-thread-4 is helping Department ID 102 in making a deposit of € 319 to Account ID 19
+New balance in Account ID 18 is € 22208.0
+New balance in Account ID 19 is € 3820.0
+pool-1-thread-3 is helping Department ID 107 in making a transfer of € 106 from Account ID 48 to Account ID 19
+pool-1-thread-2 is helping Department ID 109 in making a deposit of € 211 to Account ID 45
+New balance in Account ID 48 is € 956.0
+pool-1-thread-1 is helping Department ID 108 in making a deposit of € 475 to Account ID 48
+New balance in Account ID 45 is € 5699.0
+New balance in Account ID 19 is € 3926.0
+pool-1-thread-4 is helping Department ID 107 in making a transfer of € 144 from Account ID 8 to Account ID 32
+New balance in Account ID 48 is € 1431.0
+New balance in Account ID 8 is € 11179.0
+pool-1-thread-2 is helping Department ID 102 in making a deposit of € 103 to Account ID 10
+pool-1-thread-3 is helping Department ID 104 in making a withdrawal of € 236 from Account ID 6
+New balance in Account ID 32 is € 9487.0
+New balance in Account ID 10 is € 9062.0
+pool-1-thread-1 is helping Department ID 107 in making a deposit of € 203 to Account ID 7
+New balance in Account ID 6 is € 10734.0
+pool-1-thread-4 is helping Department ID 106 in making a withdrawal of € 278 from Account ID 17
+New balance in Account ID 7 is € 15806.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 473 to Account ID 13
+New balance in Account ID 17 is € 8313.0
+pool-1-thread-3 is helping Department ID 104 in making a deposit of € 100 to Account ID 10
+New balance in Account ID 13 is € 3269.0
+pool-1-thread-1 is helping Department ID 110 in making a deposit of € 119 to Account ID 27
+New balance in Account ID 10 is € 9162.0
+pool-1-thread-4 is helping Department ID 103 in making a withdrawal of € 497 from Account ID 15
+New balance in Account ID 27 is € 9552.0
+pool-1-thread-2 is helping Department ID 101 in making a deposit of € 271 to Account ID 1
+New balance in Account ID 15 is € 10377.0
+pool-1-thread-3 is helping Department ID 104 in making a deposit of € 211 to Account ID 8
+New balance in Account ID 1 is € 23837.0
+pool-1-thread-1 is helping Department ID 101 in making a deposit of € 391 to Account ID 30
+New balance in Account ID 8 is € 11390.0
+New balance in Account ID 30 is € 12766.0
+pool-1-thread-4 is helping Department ID 107 in making a transfer of € 456 from Account ID 5 to Account ID 27
+pool-1-thread-2 is helping Department ID 106 in making a transfer of € 265 from Account ID 50 to Account ID 49
+New balance in Account ID 5 is € 17713.0
+New balance in Account ID 50 is € 4627.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 196 from Account ID 43 to Account ID 11
+New balance in Account ID 27 is € 10008.0
+New balance in Account ID 49 is € 6291.0
+New balance in Account ID 43 is € 12172.0
+pool-1-thread-1 is helping Department ID 109 in making a deposit of € 172 to Account ID 6
+pool-1-thread-4 is helping Department ID 107 in making a withdrawal of € 126 from Account ID 17
+New balance in Account ID 11 is € 10300.0
+New balance in Account ID 6 is € 10906.0
+pool-1-thread-2 is helping Department ID 110 in making a transfer of € 110 from Account ID 13 to Account ID 9
+New balance in Account ID 17 is € 8187.0
+pool-1-thread-3 is helping Department ID 110 in making a withdrawal of € 346 from Account ID 38
+New balance in Account ID 13 is € 3159.0
+Insufficient funds in Account ID 38.  Withdrawal was unsuccessful.
+pool-1-thread-1 is helping Department ID 101 in making a deposit of € 345 to Account ID 13
+New balance in Account ID 9 is € 8904.0
+pool-1-thread-4 is helping Department ID 103 in making a transfer of € 420 from Account ID 33 to Account ID 17
+New balance in Account ID 13 is € 3504.0
+pool-1-thread-3 is helping Department ID 109 in making a deposit of € 275 to Account ID 31
+New balance in Account ID 33 is € 1263.0
+pool-1-thread-2 is helping Department ID 103 in making a deposit of € 386 to Account ID 28
+New balance in Account ID 31 is € 6947.0
+New balance in Account ID 17 is € 8607.0
+New balance in Account ID 28 is € 2913.0
+pool-1-thread-1 is helping Department ID 102 in making a transfer of € 352 from Account ID 13 to Account ID 10
+pool-1-thread-3 is helping Department ID 103 in making a transfer of € 204 from Account ID 32 to Account ID 30
+New balance in Account ID 13 is € 3152.0
+pool-1-thread-4 is helping Department ID 105 in making a deposit of € 386 to Account ID 25
+pool-1-thread-2 is helping Department ID 105 in making a deposit of € 300 to Account ID 30
+New balance in Account ID 32 is € 9283.0
+New balance in Account ID 10 is € 9514.0
+New balance in Account ID 30 is € 12970.0
+New balance in Account ID 25 is € 23697.0
+pool-1-thread-1 is helping Department ID 108 in making a transfer of € 463 from Account ID 28 to Account ID 23
+New balance in Account ID 30 is € 12970.0
+pool-1-thread-2 is helping Department ID 103 in making a deposit of € 433 to Account ID 17
+New balance in Account ID 28 is € 2450.0
+New balance in Account ID 17 is € 9040.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 470 from Account ID 16 to Account ID 14
+pool-1-thread-3 is helping Department ID 107 in making a withdrawal of € 141 from Account ID 7
+New balance in Account ID 23 is € 7879.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 173 to Account ID 44
+New balance in Account ID 7 is € 15665.0
+New balance in Account ID 16 is € 5942.0
+pool-1-thread-1 is helping Department ID 102 in making a transfer of € 243 from Account ID 16 to Account ID 2
+New balance in Account ID 44 is € 21403.0
+New balance in Account ID 14 is € 3496.0
+pool-1-thread-3 is helping Department ID 109 in making a deposit of € 275 to Account ID 10
+pool-1-thread-2 is helping Department ID 109 in making a withdrawal of € 445 from Account ID 42
+New balance in Account ID 16 is € 5699.0
+pool-1-thread-4 is helping Department ID 106 in making a deposit of € 479 to Account ID 16
+New balance in Account ID 42 is € 4337.0
+New balance in Account ID 10 is € 9789.0
+New balance in Account ID 2 is € 37370.0
+pool-1-thread-2 is helping Department ID 104 in making a withdrawal of € 176 from Account ID 27
+pool-1-thread-3 is helping Department ID 103 in making a deposit of € 150 to Account ID 33
+New balance in Account ID 16 is € 6178.0
+New balance in Account ID 27 is € 9832.0
+pool-1-thread-1 is helping Department ID 107 in making a deposit of € 487 to Account ID 21
+New balance in Account ID 33 is € 1413.0
+pool-1-thread-4 is helping Department ID 110 in making a transfer of € 295 from Account ID 46 to Account ID 34
+New balance in Account ID 21 is € 14782.0
+pool-1-thread-2 is helping Department ID 107 in making a deposit of € 338 to Account ID 39
+pool-1-thread-3 is helping Department ID 104 in making a withdrawal of € 198 from Account ID 15
+New balance in Account ID 46 is € 9765.0
+pool-1-thread-1 is helping Department ID 110 in making a transfer of € 415 from Account ID 28 to Account ID 7
+New balance in Account ID 15 is € 10179.0
+New balance in Account ID 39 is € 6153.0
+pool-1-thread-3 is helping Department ID 110 in making a withdrawal of € 465 from Account ID 27
+New balance in Account ID 28 is € 2035.0
+New balance in Account ID 34 is € 12220.0
+pool-1-thread-2 is helping Department ID 106 in making a deposit of € 355 to Account ID 29
+pool-1-thread-4 is helping Department ID 108 in making a withdrawal of € 164 from Account ID 8
+New balance in Account ID 7 is € 16080.0
+New balance in Account ID 29 is € 15645.0
+New balance in Account ID 27 is € 9367.0
+pool-1-thread-1 is helping Department ID 106 in making a withdrawal of € 456 from Account ID 15
+pool-1-thread-2 is helping Department ID 104 in making a withdrawal of € 156 from Account ID 14
+pool-1-thread-3 is helping Department ID 107 in making a transfer of € 382 from Account ID 14 to Account ID 4
+New balance in Account ID 8 is € 11226.0
+pool-1-thread-4 is helping Department ID 104 in making a deposit of € 254 to Account ID 5
+New balance in Account ID 14 is € 3340.0
+pool-1-thread-2 is helping Department ID 104 in making a withdrawal of € 291 from Account ID 49
+New balance in Account ID 15 is € 9723.0
+pool-1-thread-1 is helping Department ID 102 in making a deposit of € 309 to Account ID 13
+New balance in Account ID 14 is € 2958.0
+New balance in Account ID 49 is € 6000.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 448 from Account ID 27
+New balance in Account ID 13 is € 3461.0
+pool-1-thread-1 is helping Department ID 110 in making a deposit of € 178 to Account ID 11
+New balance in Account ID 5 is € 17967.0
+pool-1-thread-4 is helping Department ID 104 in making a withdrawal of € 103 from Account ID 34
+New balance in Account ID 4 is € 10953.0
+pool-1-thread-3 is helping Department ID 110 in making a deposit of € 360 to Account ID 10
+New balance in Account ID 11 is € 10478.0
+pool-1-thread-1 is helping Department ID 104 in making a transfer of € 136 from Account ID 14 to Account ID 4
+New balance in Account ID 27 is € 8919.0
+pool-1-thread-2 is helping Department ID 105 in making a deposit of € 394 to Account ID 24
+New balance in Account ID 34 is € 12117.0
+pool-1-thread-4 is helping Department ID 110 in making a transfer of € 237 from Account ID 12 to Account ID 49
+New balance in Account ID 24 is € 21605.0
+pool-1-thread-2 is helping Department ID 110 in making a withdrawal of € 413 from Account ID 16
+New balance in Account ID 14 is € 2822.0
+New balance in Account ID 10 is € 10149.0
+pool-1-thread-3 is helping Department ID 103 in making a withdrawal of € 178 from Account ID 15
+New balance in Account ID 16 is € 5765.0
+pool-1-thread-2 is helping Department ID 105 in making a withdrawal of € 153 from Account ID 20
+New balance in Account ID 12 is € 14615.0
+New balance in Account ID 15 is € 9545.0
+pool-1-thread-3 is helping Department ID 103 in making a withdrawal of € 215 from Account ID 4
+New balance in Account ID 4 is € 11089.0
+pool-1-thread-1 is helping Department ID 104 in making a deposit of € 292 to Account ID 46
+New balance in Account ID 4 is € 10874.0
+pool-1-thread-3 is helping Department ID 110 in making a withdrawal of € 420 from Account ID 1
+New balance in Account ID 49 is € 6237.0
+pool-1-thread-4 is helping Department ID 108 in making a transfer of € 192 from Account ID 21 to Account ID 36
+New balance in Account ID 20 is € 3358.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 173 from Account ID 32
+New balance in Account ID 32 is € 9110.0
+pool-1-thread-2 is helping Department ID 102 in making a withdrawal of € 323 from Account ID 38
+New balance in Account ID 21 is € 14590.0
+New balance in Account ID 1 is € 23417.0
+pool-1-thread-3 is helping Department ID 110 in making a transfer of € 178 from Account ID 29 to Account ID 24
+New balance in Account ID 46 is € 10057.0
+pool-1-thread-1 is helping Department ID 104 in making a deposit of € 347 to Account ID 4
+Insufficient funds in Account ID 38.  Withdrawal was unsuccessful.
+pool-1-thread-2 is helping Department ID 101 in making a deposit of € 205 to Account ID 16
+New balance in Account ID 29 is € 15467.0
+New balance in Account ID 36 is € 10400.0
+New balance in Account ID 4 is € 11221.0
+New balance in Account ID 16 is € 5970.0
+pool-1-thread-4 is helping Department ID 106 in making a deposit of € 193 to Account ID 39
+New balance in Account ID 24 is € 21783.0
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 421 from Account ID 35 to Account ID 14
+New balance in Account ID 39 is € 6346.0
+pool-1-thread-2 is helping Department ID 103 in making a withdrawal of € 347 from Account ID 39
+New balance in Account ID 35 is € 16446.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 290 from Account ID 50 to Account ID 1
+New balance in Account ID 39 is € 5999.0
+New balance in Account ID 14 is € 3243.0
+pool-1-thread-4 is helping Department ID 107 in making a withdrawal of € 480 from Account ID 41
+New balance in Account ID 50 is € 4337.0
+pool-1-thread-2 is helping Department ID 110 in making a withdrawal of € 320 from Account ID 22
+New balance in Account ID 1 is € 23707.0
+New balance in Account ID 41 is € 17553.0
+pool-1-thread-1 is helping Department ID 102 in making a withdrawal of € 103 from Account ID 44
+New balance in Account ID 22 is € 4824.0
+New balance in Account ID 44 is € 21300.0
+pool-1-thread-3 is helping Department ID 102 in making a transfer of € 220 from Account ID 23 to Account ID 48
+pool-1-thread-4 is helping Department ID 102 in making a withdrawal of € 415 from Account ID 28
+New balance in Account ID 23 is € 7659.0
+New balance in Account ID 28 is € 1620.0
+New balance in Account ID 48 is € 1651.0
+pool-1-thread-2 is helping Department ID 109 in making a transfer of € 233 from Account ID 26 to Account ID 11
+pool-1-thread-1 is helping Department ID 106 in making a transfer of € 286 from Account ID 22 to Account ID 14
+New balance in Account ID 26 is € 15351.0
+pool-1-thread-4 is helping Department ID 101 in making a transfer of € 453 from Account ID 24 to Account ID 45
+New balance in Account ID 22 is € 4538.0
+New balance in Account ID 11 is € 10711.0
+pool-1-thread-3 is helping Department ID 110 in making a withdrawal of € 146 from Account ID 4
+New balance in Account ID 14 is € 3529.0
+pool-1-thread-2 is helping Department ID 104 in making a transfer of € 258 from Account ID 47 to Account ID 28
+New balance in Account ID 24 is € 21330.0
+New balance in Account ID 4 is € 11075.0
+pool-1-thread-1 is helping Department ID 105 in making a deposit of € 456 to Account ID 10
+New balance in Account ID 47 is € 12845.0
+New balance in Account ID 10 is € 10605.0
+New balance in Account ID 45 is € 6152.0
+pool-1-thread-3 is helping Department ID 105 in making a transfer of € 267 from Account ID 11 to Account ID 49
+New balance in Account ID 28 is € 1878.0
+pool-1-thread-1 is helping Department ID 104 in making a deposit of € 313 to Account ID 11
+New balance in Account ID 11 is € 10444.0
+pool-1-thread-4 is helping Department ID 110 in making a transfer of € 297 from Account ID 22 to Account ID 8
+New balance in Account ID 49 is € 6504.0
+pool-1-thread-2 is helping Department ID 104 in making a transfer of € 303 from Account ID 24 to Account ID 34
+New balance in Account ID 11 is € 10757.0
+New balance in Account ID 22 is € 4241.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 353 from Account ID 6
+pool-1-thread-1 is helping Department ID 109 in making a deposit of € 380 to Account ID 7
+New balance in Account ID 6 is € 10553.0
+New balance in Account ID 24 is € 21027.0
+pool-1-thread-3 is helping Department ID 104 in making a deposit of € 462 to Account ID 14
+New balance in Account ID 8 is € 11523.0
+New balance in Account ID 34 is € 12420.0
+New balance in Account ID 7 is € 16460.0
+pool-1-thread-4 is helping Department ID 108 in making a transfer of € 317 from Account ID 37 to Account ID 27
+New balance in Account ID 14 is € 3991.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 306 to Account ID 8
+New balance in Account ID 37 is € 8130.0
+pool-1-thread-1 is helping Department ID 102 in making a transfer of € 325 from Account ID 41 to Account ID 34
+New balance in Account ID 8 is € 11829.0
+New balance in Account ID 27 is € 9236.0
+pool-1-thread-3 is helping Department ID 109 in making a transfer of € 295 from Account ID 20 to Account ID 40
+pool-1-thread-2 is helping Department ID 103 in making a deposit of € 346 to Account ID 9
+New balance in Account ID 41 is € 17228.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 375 from Account ID 13 to Account ID 35
+New balance in Account ID 9 is € 9250.0
+New balance in Account ID 20 is € 3063.0
+pool-1-thread-2 is helping Department ID 109 in making a transfer of € 488 from Account ID 19 to Account ID 22
+New balance in Account ID 13 is € 3086.0
+New balance in Account ID 34 is € 12745.0
+pool-1-thread-1 is helping Department ID 108 in making a deposit of € 477 to Account ID 37
+New balance in Account ID 40 is € 7728.0
+New balance in Account ID 35 is € 16821.0
+New balance in Account ID 19 is € 3438.0
+New balance in Account ID 37 is € 8607.0
+pool-1-thread-3 is helping Department ID 107 in making a withdrawal of € 325 from Account ID 11
+New balance in Account ID 22 is € 4729.0
+New balance in Account ID 11 is € 10432.0
+pool-1-thread-4 is helping Department ID 104 in making a transfer of € 222 from Account ID 44 to Account ID 4
+pool-1-thread-1 is helping Department ID 109 in making a withdrawal of € 232 from Account ID 49
+New balance in Account ID 44 is € 21078.0
+New balance in Account ID 49 is € 6272.0
+pool-1-thread-2 is helping Department ID 103 in making a transfer of € 481 from Account ID 43 to Account ID 42
+New balance in Account ID 4 is € 11297.0
+pool-1-thread-3 is helping Department ID 105 in making a deposit of € 415 to Account ID 17
+New balance in Account ID 43 is € 11691.0
+pool-1-thread-1 is helping Department ID 106 in making a withdrawal of € 477 from Account ID 21
+New balance in Account ID 17 is € 9455.0
+New balance in Account ID 42 is € 4818.0
+New balance in Account ID 21 is € 14113.0
+pool-1-thread-4 is helping Department ID 107 in making a withdrawal of € 403 from Account ID 17
+pool-1-thread-3 is helping Department ID 101 in making a deposit of € 255 to Account ID 19
+New balance in Account ID 17 is € 9052.0
+pool-1-thread-2 is helping Department ID 103 in making a deposit of € 358 to Account ID 24
+New balance in Account ID 19 is € 3693.0
+pool-1-thread-1 is helping Department ID 101 in making a transfer of € 482 from Account ID 41 to Account ID 35
+New balance in Account ID 24 is € 21385.0
+pool-1-thread-4 is helping Department ID 106 in making a deposit of € 133 to Account ID 44
+New balance in Account ID 41 is € 16746.0
+pool-1-thread-3 is helping Department ID 102 in making a deposit of € 250 to Account ID 24
+New balance in Account ID 44 is € 21211.0
+pool-1-thread-2 is helping Department ID 108 in making a withdrawal of € 401 from Account ID 27
+New balance in Account ID 24 is € 21635.0
+New balance in Account ID 35 is € 17303.0
+pool-1-thread-4 is helping Department ID 109 in making a transfer of € 227 from Account ID 37 to Account ID 16
+New balance in Account ID 27 is € 8835.0
+pool-1-thread-3 is helping Department ID 108 in making a withdrawal of € 494 from Account ID 45
+New balance in Account ID 37 is € 8380.0
+pool-1-thread-1 is helping Department ID 107 in making a withdrawal of € 167 from Account ID 11
+New balance in Account ID 45 is € 5658.0
+New balance in Account ID 16 is € 6197.0
+New balance in Account ID 11 is € 10265.0
+pool-1-thread-2 is helping Department ID 101 in making a deposit of € 416 to Account ID 41
+pool-1-thread-3 is helping Department ID 106 in making a withdrawal of € 217 from Account ID 45
+New balance in Account ID 41 is € 17162.0
+pool-1-thread-4 is helping Department ID 105 in making a deposit of € 485 to Account ID 31
+New balance in Account ID 45 is € 5441.0
+pool-1-thread-1 is helping Department ID 103 in making a transfer of € 136 from Account ID 44 to Account ID 34
+New balance in Account ID 31 is € 7432.0
+pool-1-thread-2 is helping Department ID 107 in making a transfer of € 119 from Account ID 22 to Account ID 39
+New balance in Account ID 44 is € 21075.0
+pool-1-thread-3 is helping Department ID 110 in making a deposit of € 233 to Account ID 40
+New balance in Account ID 22 is € 4610.0
+New balance in Account ID 34 is € 12881.0
+New balance in Account ID 40 is € 7961.0
+pool-1-thread-4 is helping Department ID 109 in making a withdrawal of € 399 from Account ID 12
+New balance in Account ID 39 is € 6118.0
+New balance in Account ID 12 is € 14216.0
+pool-1-thread-1 is helping Department ID 103 in making a transfer of € 234 from Account ID 29 to Account ID 12
+pool-1-thread-3 is helping Department ID 108 in making a deposit of € 333 to Account ID 30
+New balance in Account ID 29 is € 15233.0
+New balance in Account ID 30 is € 13303.0
+pool-1-thread-2 is helping Department ID 103 in making a transfer of € 352 from Account ID 36 to Account ID 10
+New balance in Account ID 12 is € 14450.0
+New balance in Account ID 36 is € 10048.0
+pool-1-thread-4 is helping Department ID 109 in making a transfer of € 235 from Account ID 5 to Account ID 32
+pool-1-thread-3 is helping Department ID 104 in making a withdrawal of € 497 from Account ID 49
+New balance in Account ID 10 is € 10957.0
+New balance in Account ID 5 is € 17732.0
+New balance in Account ID 49 is € 5775.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 330 from Account ID 29
+New balance in Account ID 32 is € 9345.0
+New balance in Account ID 29 is € 14903.0
+pool-1-thread-2 is helping Department ID 104 in making a deposit of € 242 to Account ID 14
+pool-1-thread-3 is helping Department ID 105 in making a withdrawal of € 152 from Account ID 34
+New balance in Account ID 14 is € 4233.0
+pool-1-thread-4 is helping Department ID 106 in making a deposit of € 236 to Account ID 10
+New balance in Account ID 34 is € 12729.0
+pool-1-thread-1 is helping Department ID 109 in making a deposit of € 131 to Account ID 37
+New balance in Account ID 10 is € 11193.0
+pool-1-thread-2 is helping Department ID 109 in making a deposit of € 168 to Account ID 4
+New balance in Account ID 37 is € 8511.0
+pool-1-thread-3 is helping Department ID 102 in making a withdrawal of € 154 from Account ID 37
+New balance in Account ID 4 is € 11465.0
+pool-1-thread-4 is helping Department ID 107 in making a deposit of € 428 to Account ID 17
+New balance in Account ID 37 is € 8357.0
+pool-1-thread-1 is helping Department ID 102 in making a transfer of € 315 from Account ID 5 to Account ID 41
+New balance in Account ID 17 is € 9480.0
+pool-1-thread-2 is helping Department ID 103 in making a deposit of € 258 to Account ID 4
+pool-1-thread-3 is helping Department ID 107 in making a transfer of € 252 from Account ID 1 to Account ID 35
+New balance in Account ID 4 is € 11723.0
+New balance in Account ID 5 is € 17417.0
+pool-1-thread-4 is helping Department ID 107 in making a transfer of € 426 from Account ID 21 to Account ID 25
+New balance in Account ID 41 is € 17477.0
+New balance in Account ID 1 is € 23455.0
+pool-1-thread-2 is helping Department ID 104 in making a deposit of € 372 to Account ID 6
+New balance in Account ID 21 is € 13687.0
+New balance in Account ID 35 is € 17555.0
+New balance in Account ID 6 is € 10925.0
+pool-1-thread-1 is helping Department ID 109 in making a deposit of € 465 to Account ID 35
+New balance in Account ID 25 is € 24123.0
+New balance in Account ID 35 is € 18020.0
+pool-1-thread-3 is helping Department ID 103 in making a transfer of € 466 from Account ID 23 to Account ID 3
+pool-1-thread-2 is helping Department ID 104 in making a deposit of € 393 to Account ID 24
+New balance in Account ID 23 is € 7193.0
+New balance in Account ID 24 is € 22028.0
+pool-1-thread-4 is helping Department ID 109 in making a transfer of € 400 from Account ID 41 to Account ID 34
+New balance in Account ID 3 is € 16643.0
+pool-1-thread-1 is helping Department ID 102 in making a withdrawal of € 397 from Account ID 49
+New balance in Account ID 41 is € 17077.0
+New balance in Account ID 49 is € 5378.0
+pool-1-thread-2 is helping Department ID 108 in making a transfer of € 180 from Account ID 7 to Account ID 16
+New balance in Account ID 34 is € 13129.0
+pool-1-thread-3 is helping Department ID 105 in making a deposit of € 394 to Account ID 8
+New balance in Account ID 7 is € 16280.0
+pool-1-thread-1 is helping Department ID 107 in making a transfer of € 316 from Account ID 25 to Account ID 24
+New balance in Account ID 16 is € 6377.0
+New balance in Account ID 8 is € 12223.0
+pool-1-thread-4 is helping Department ID 102 in making a withdrawal of € 307 from Account ID 23
+New balance in Account ID 25 is € 23807.0
+pool-1-thread-2 is helping Department ID 109 in making a withdrawal of € 310 from Account ID 38
+Insufficient funds in Account ID 38.  Withdrawal was unsuccessful.
+New balance in Account ID 23 is € 6886.0
+New balance in Account ID 24 is € 22344.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 149 from Account ID 10
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 401 from Account ID 35
+New balance in Account ID 10 is € 11044.0
+pool-1-thread-4 is helping Department ID 106 in making a withdrawal of € 118 from Account ID 24
+New balance in Account ID 35 is € 17619.0
+pool-1-thread-1 is helping Department ID 105 in making a withdrawal of € 126 from Account ID 11
+New balance in Account ID 24 is € 22226.0
+pool-1-thread-3 is helping Department ID 102 in making a deposit of € 370 to Account ID 8
+New balance in Account ID 11 is € 10139.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 166 to Account ID 35
+New balance in Account ID 8 is € 12593.0
+pool-1-thread-4 is helping Department ID 109 in making a deposit of € 223 to Account ID 17
+New balance in Account ID 35 is € 17785.0
+pool-1-thread-1 is helping Department ID 102 in making a deposit of € 373 to Account ID 26
+New balance in Account ID 17 is € 9703.0
+New balance in Account ID 26 is € 15724.0
+pool-1-thread-3 is helping Department ID 101 in making a transfer of € 486 from Account ID 39 to Account ID 23
+pool-1-thread-2 is helping Department ID 104 in making a transfer of € 133 from Account ID 21 to Account ID 9
+New balance in Account ID 39 is € 5632.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 141 from Account ID 45 to Account ID 28
+New balance in Account ID 21 is € 13554.0
+New balance in Account ID 23 is € 7372.0
+New balance in Account ID 9 is € 9383.0
+New balance in Account ID 45 is € 5300.0
+pool-1-thread-1 is helping Department ID 104 in making a transfer of € 361 from Account ID 41 to Account ID 6
+New balance in Account ID 41 is € 16716.0
+New balance in Account ID 28 is € 2019.0
+pool-1-thread-3 is helping Department ID 110 in making a transfer of € 268 from Account ID 13 to Account ID 48
+New balance in Account ID 6 is € 11286.0
+pool-1-thread-2 is helping Department ID 105 in making a withdrawal of € 333 from Account ID 21
+New balance in Account ID 13 is € 2818.0
+pool-1-thread-4 is helping Department ID 103 in making a withdrawal of € 262 from Account ID 34
+New balance in Account ID 21 is € 13221.0
+pool-1-thread-1 is helping Department ID 107 in making a deposit of € 151 to Account ID 22
+New balance in Account ID 48 is € 1919.0
+pool-1-thread-2 is helping Department ID 107 in making a deposit of € 432 to Account ID 16
+New balance in Account ID 22 is € 4761.0
+New balance in Account ID 34 is € 12867.0
+pool-1-thread-3 is helping Department ID 108 in making a withdrawal of € 469 from Account ID 22
+pool-1-thread-1 is helping Department ID 109 in making a withdrawal of € 365 from Account ID 16
+New balance in Account ID 16 is € 6809.0
+pool-1-thread-4 is helping Department ID 107 in making a transfer of € 223 from Account ID 50 to Account ID 47
+New balance in Account ID 22 is € 4292.0
+pool-1-thread-2 is helping Department ID 105 in making a withdrawal of € 345 from Account ID 32
+New balance in Account ID 16 is € 6444.0
+New balance in Account ID 50 is € 4114.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 151 from Account ID 33 to Account ID 47
+New balance in Account ID 32 is € 9000.0
+New balance in Account ID 33 is € 1262.0
+pool-1-thread-1 is helping Department ID 103 in making a transfer of € 484 from Account ID 35 to Account ID 40
+New balance in Account ID 47 is € 13068.0
+pool-1-thread-2 is helping Department ID 107 in making a deposit of € 474 to Account ID 24
+New balance in Account ID 47 is € 13219.0
+New balance in Account ID 24 is € 22700.0
+New balance in Account ID 35 is € 17301.0
+pool-1-thread-4 is helping Department ID 104 in making a transfer of € 103 from Account ID 44 to Account ID 16
+pool-1-thread-3 is helping Department ID 107 in making a deposit of € 406 to Account ID 44
+pool-1-thread-2 is helping Department ID 109 in making a deposit of € 111 to Account ID 25
+New balance in Account ID 44 is € 20972.0
+New balance in Account ID 40 is € 8445.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 406 from Account ID 11
+New balance in Account ID 16 is € 6547.0
+pool-1-thread-4 is helping Department ID 105 in making a withdrawal of € 217 from Account ID 39
+New balance in Account ID 11 is € 9733.0
+New balance in Account ID 25 is € 23918.0
+pool-1-thread-1 is helping Department ID 110 in making a withdrawal of € 426 from Account ID 18
+pool-1-thread-2 is helping Department ID 107 in making a deposit of € 408 to Account ID 4
+New balance in Account ID 44 is € 21378.0
+pool-1-thread-3 is helping Department ID 102 in making a deposit of € 203 to Account ID 20
+New balance in Account ID 39 is € 5415.0
+New balance in Account ID 4 is € 12131.0
+New balance in Account ID 18 is € 21782.0
+pool-1-thread-4 is helping Department ID 109 in making a transfer of € 221 from Account ID 25 to Account ID 5
+New balance in Account ID 20 is € 3266.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 165 to Account ID 13
+New balance in Account ID 25 is € 23697.0
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 222 from Account ID 12
+New balance in Account ID 5 is € 17638.0
+New balance in Account ID 13 is € 2983.0
+pool-1-thread-3 is helping Department ID 106 in making a transfer of € 426 from Account ID 35 to Account ID 47
+pool-1-thread-4 is helping Department ID 102 in making a withdrawal of € 341 from Account ID 15
+New balance in Account ID 12 is € 14228.0
+pool-1-thread-2 is helping Department ID 104 in making a withdrawal of € 310 from Account ID 34
+New balance in Account ID 35 is € 16875.0
+pool-1-thread-1 is helping Department ID 103 in making a deposit of € 134 to Account ID 26
+New balance in Account ID 15 is € 9204.0
+New balance in Account ID 34 is € 12557.0
+pool-1-thread-4 is helping Department ID 105 in making a deposit of € 377 to Account ID 30
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 303 to Account ID 2
+New balance in Account ID 26 is € 15858.0
+New balance in Account ID 47 is € 13645.0
+pool-1-thread-1 is helping Department ID 102 in making a deposit of € 239 to Account ID 5
+New balance in Account ID 30 is € 13680.0
+New balance in Account ID 2 is € 37673.0
+pool-1-thread-3 is helping Department ID 104 in making a withdrawal of € 306 from Account ID 39
+New balance in Account ID 5 is € 17877.0
+New balance in Account ID 39 is € 5109.0
+pool-1-thread-4 is helping Department ID 104 in making a transfer of € 139 from Account ID 4 to Account ID 43
+pool-1-thread-2 is helping Department ID 109 in making a transfer of € 287 from Account ID 12 to Account ID 34
+New balance in Account ID 4 is € 11992.0
+pool-1-thread-1 is helping Department ID 110 in making a withdrawal of € 116 from Account ID 17
+New balance in Account ID 12 is € 13941.0
+New balance in Account ID 43 is € 11830.0
+New balance in Account ID 17 is € 9587.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 309 from Account ID 11
+New balance in Account ID 34 is € 12844.0
+pool-1-thread-4 is helping Department ID 108 in making a deposit of € 186 to Account ID 45
+New balance in Account ID 11 is € 9424.0
+pool-1-thread-1 is helping Department ID 102 in making a withdrawal of € 460 from Account ID 44
+New balance in Account ID 45 is € 5486.0
+pool-1-thread-2 is helping Department ID 109 in making a withdrawal of € 261 from Account ID 21
+New balance in Account ID 44 is € 20918.0
+pool-1-thread-3 is helping Department ID 101 in making a withdrawal of € 431 from Account ID 24
+New balance in Account ID 21 is € 12960.0
+pool-1-thread-4 is helping Department ID 103 in making a transfer of € 268 from Account ID 12 to Account ID 29
+New balance in Account ID 24 is € 22269.0
+pool-1-thread-1 is helping Department ID 103 in making a transfer of € 492 from Account ID 10 to Account ID 47
+New balance in Account ID 12 is € 13673.0
+New balance in Account ID 10 is € 10552.0
+pool-1-thread-2 is helping Department ID 107 in making a deposit of € 213 to Account ID 50
+New balance in Account ID 47 is € 14137.0
+New balance in Account ID 29 is € 15171.0
+New balance in Account ID 50 is € 4327.0
+pool-1-thread-3 is helping Department ID 107 in making a transfer of € 480 from Account ID 30 to Account ID 19
+pool-1-thread-1 is helping Department ID 105 in making a deposit of € 131 to Account ID 43
+New balance in Account ID 30 is € 13200.0
+pool-1-thread-4 is helping Department ID 109 in making a withdrawal of € 150 from Account ID 5
+New balance in Account ID 43 is € 11961.0
+New balance in Account ID 19 is € 4173.0
+pool-1-thread-2 is helping Department ID 105 in making a deposit of € 303 to Account ID 6
+New balance in Account ID 5 is € 17727.0
+pool-1-thread-1 is helping Department ID 102 in making a withdrawal of € 211 from Account ID 36
+New balance in Account ID 6 is € 11589.0
+pool-1-thread-3 is helping Department ID 109 in making a withdrawal of € 382 from Account ID 46
+New balance in Account ID 36 is € 9837.0
+pool-1-thread-4 is helping Department ID 108 in making a withdrawal of € 332 from Account ID 21
+New balance in Account ID 46 is € 9675.0
+pool-1-thread-2 is helping Department ID 104 in making a deposit of € 288 to Account ID 15
+New balance in Account ID 21 is € 12628.0
+pool-1-thread-1 is helping Department ID 110 in making a deposit of € 160 to Account ID 16
+New balance in Account ID 15 is € 9492.0
+pool-1-thread-3 is helping Department ID 102 in making a deposit of € 296 to Account ID 11
+New balance in Account ID 16 is € 6707.0
+pool-1-thread-4 is helping Department ID 110 in making a transfer of € 199 from Account ID 44 to Account ID 50
+New balance in Account ID 11 is € 9720.0
+pool-1-thread-2 is helping Department ID 103 in making a withdrawal of € 459 from Account ID 43
+New balance in Account ID 44 is € 20719.0
+pool-1-thread-1 is helping Department ID 102 in making a transfer of € 164 from Account ID 31 to Account ID 13
+New balance in Account ID 43 is € 11502.0
+pool-1-thread-3 is helping Department ID 103 in making a deposit of € 330 to Account ID 15
+New balance in Account ID 31 is € 7268.0
+New balance in Account ID 50 is € 4526.0
+New balance in Account ID 15 is € 9822.0
+New balance in Account ID 13 is € 3147.0
+pool-1-thread-2 is helping Department ID 107 in making a transfer of € 398 from Account ID 48 to Account ID 28
+pool-1-thread-4 is helping Department ID 107 in making a transfer of € 389 from Account ID 27 to Account ID 15
+New balance in Account ID 48 is € 1521.0
+New balance in Account ID 27 is € 8446.0
+pool-1-thread-3 is helping Department ID 107 in making a deposit of € 479 to Account ID 39
+pool-1-thread-1 is helping Department ID 101 in making a withdrawal of € 416 from Account ID 16
+New balance in Account ID 15 is € 10211.0
+New balance in Account ID 28 is € 2417.0
+New balance in Account ID 39 is € 5588.0
+pool-1-thread-4 is helping Department ID 108 in making a withdrawal of € 234 from Account ID 25
+New balance in Account ID 16 is € 6291.0
+pool-1-thread-2 is helping Department ID 104 in making a withdrawal of € 437 from Account ID 27
+New balance in Account ID 25 is € 23463.0
+New balance in Account ID 27 is € 8009.0
+pool-1-thread-3 is helping Department ID 101 in making a transfer of € 340 from Account ID 39 to Account ID 23
+pool-1-thread-1 is helping Department ID 110 in making a transfer of € 308 from Account ID 6 to Account ID 28
+New balance in Account ID 39 is € 5248.0
+pool-1-thread-4 is helping Department ID 103 in making a deposit of € 109 to Account ID 15
+New balance in Account ID 6 is € 11281.0
+New balance in Account ID 23 is € 7712.0
+New balance in Account ID 15 is € 10320.0
+pool-1-thread-2 is helping Department ID 109 in making a withdrawal of € 314 from Account ID 44
+New balance in Account ID 28 is € 2725.0
+New balance in Account ID 44 is € 20405.0
+pool-1-thread-3 is helping Department ID 105 in making a transfer of € 452 from Account ID 16 to Account ID 20
+pool-1-thread-4 is helping Department ID 107 in making a withdrawal of € 369 from Account ID 27
+New balance in Account ID 16 is € 5839.0
+pool-1-thread-1 is helping Department ID 102 in making a deposit of € 202 to Account ID 49
+New balance in Account ID 27 is € 7640.0
+pool-1-thread-2 is helping Department ID 105 in making a withdrawal of € 359 from Account ID 39
+pool-1-thread-4 is helping Department ID 105 in making a deposit of € 183 to Account ID 31
+New balance in Account ID 39 is € 4889.0
+pool-1-thread-2 is helping Department ID 106 in making a deposit of € 265 to Account ID 23
+New balance in Account ID 49 is € 5580.0
+pool-1-thread-1 is helping Department ID 108 in making a deposit of € 206 to Account ID 23
+New balance in Account ID 20 is € 3718.0
+pool-1-thread-3 is helping Department ID 105 in making a withdrawal of € 357 from Account ID 25
+New balance in Account ID 31 is € 7451.0
+pool-1-thread-4 is helping Department ID 105 in making a withdrawal of € 486 from Account ID 22
+New balance in Account ID 23 is € 7977.0
+pool-1-thread-2 is helping Department ID 107 in making a deposit of € 153 to Account ID 5
+New balance in Account ID 25 is € 23106.0
+pool-1-thread-3 is helping Department ID 107 in making a deposit of € 324 to Account ID 37
+New balance in Account ID 23 is € 8183.0
+pool-1-thread-1 is helping Department ID 108 in making a transfer of € 486 from Account ID 49 to Account ID 3
+New balance in Account ID 5 is € 17880.0
+pool-1-thread-2 is helping Department ID 102 in making a transfer of € 168 from Account ID 7 to Account ID 16
+New balance in Account ID 22 is € 3806.0
+pool-1-thread-4 is helping Department ID 107 in making a deposit of € 239 to Account ID 25
+New balance in Account ID 7 is € 16112.0
+New balance in Account ID 49 is € 5094.0
+New balance in Account ID 37 is € 8681.0
+pool-1-thread-3 is helping Department ID 109 in making a deposit of € 447 to Account ID 39
+New balance in Account ID 3 is € 17129.0
+pool-1-thread-1 is helping Department ID 104 in making a deposit of € 421 to Account ID 17
+New balance in Account ID 16 is € 6007.0
+pool-1-thread-2 is helping Department ID 101 in making a deposit of € 248 to Account ID 48
+New balance in Account ID 25 is € 23345.0
+pool-1-thread-4 is helping Department ID 101 in making a deposit of € 439 to Account ID 21
+New balance in Account ID 48 is € 1769.0
+pool-1-thread-2 is helping Department ID 102 in making a withdrawal of € 474 from Account ID 34
+New balance in Account ID 17 is € 10008.0
+pool-1-thread-1 is helping Department ID 107 in making a transfer of € 178 from Account ID 13 to Account ID 25
+New balance in Account ID 39 is € 5336.0
+pool-1-thread-3 is helping Department ID 108 in making a withdrawal of € 172 from Account ID 24
+New balance in Account ID 13 is € 2969.0
+New balance in Account ID 34 is € 12370.0
+New balance in Account ID 21 is € 13067.0
+New balance in Account ID 24 is € 22097.0
+pool-1-thread-2 is helping Department ID 108 in making a deposit of € 257 to Account ID 47
+New balance in Account ID 25 is € 23523.0
+pool-1-thread-4 is helping Department ID 106 in making a withdrawal of € 131 from Account ID 3
+New balance in Account ID 47 is € 14394.0
+pool-1-thread-3 is helping Department ID 107 in making a deposit of € 328 to Account ID 39
+New balance in Account ID 3 is € 16998.0
+pool-1-thread-1 is helping Department ID 107 in making a withdrawal of € 390 from Account ID 20
+New balance in Account ID 39 is € 5664.0
+pool-1-thread-2 is helping Department ID 103 in making a withdrawal of € 306 from Account ID 23
+New balance in Account ID 20 is € 3328.0
+pool-1-thread-4 is helping Department ID 102 in making a withdrawal of € 157 from Account ID 39
+New balance in Account ID 23 is € 7877.0
+pool-1-thread-3 is helping Department ID 110 in making a transfer of € 412 from Account ID 6 to Account ID 19
+New balance in Account ID 39 is € 5507.0
+pool-1-thread-1 is helping Department ID 108 in making a withdrawal of € 163 from Account ID 48
+New balance in Account ID 6 is € 10869.0
+pool-1-thread-2 is helping Department ID 101 in making a withdrawal of € 414 from Account ID 37
+New balance in Account ID 48 is € 1606.0
+New balance in Account ID 19 is € 4585.0
+New balance in Account ID 37 is € 8267.0
+pool-1-thread-4 is helping Department ID 107 in making a transfer of € 438 from Account ID 24 to Account ID 2
+pool-1-thread-1 is helping Department ID 102 in making a transfer of € 444 from Account ID 8 to Account ID 12
+New balance in Account ID 24 is € 21659.0
+pool-1-thread-3 is helping Department ID 105 in making a deposit of € 205 to Account ID 40
+New balance in Account ID 8 is € 12149.0
+New balance in Account ID 2 is € 38111.0
+New balance in Account ID 40 is € 8650.0
+pool-1-thread-2 is helping Department ID 105 in making a transfer of € 176 from Account ID 13 to Account ID 23
+New balance in Account ID 12 is € 14117.0
+pool-1-thread-4 is helping Department ID 104 in making a withdrawal of € 259 from Account ID 19
+New balance in Account ID 13 is € 2793.0
+New balance in Account ID 19 is € 4326.0
+pool-1-thread-3 is helping Department ID 105 in making a transfer of € 366 from Account ID 19 to Account ID 38
+New balance in Account ID 23 is € 8053.0
+pool-1-thread-1 is helping Department ID 107 in making a deposit of € 163 to Account ID 25
+New balance in Account ID 19 is € 3960.0
+New balance in Account ID 25 is € 23686.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 232 from Account ID 30 to Account ID 28
+New balance in Account ID 38 is € 583.0
+pool-1-thread-2 is helping Department ID 102 in making a withdrawal of € 175 from Account ID 1
+New balance in Account ID 30 is € 12968.0
+pool-1-thread-1 is helping Department ID 109 in making a withdrawal of € 138 from Account ID 9
+New balance in Account ID 1 is € 23280.0
+pool-1-thread-3 is helping Department ID 105 in making a withdrawal of € 149 from Account ID 43
+New balance in Account ID 28 is € 2957.0
+New balance in Account ID 9 is € 9245.0
+pool-1-thread-2 is helping Department ID 104 in making a deposit of € 102 to Account ID 2
+New balance in Account ID 43 is € 11353.0
+pool-1-thread-4 is helping Department ID 104 in making a deposit of € 224 to Account ID 35
+New balance in Account ID 2 is € 38213.0
+pool-1-thread-1 is helping Department ID 106 in making a withdrawal of € 235 from Account ID 47
+New balance in Account ID 35 is € 17099.0
+pool-1-thread-3 is helping Department ID 108 in making a deposit of € 424 to Account ID 21
+New balance in Account ID 47 is € 14159.0
+pool-1-thread-2 is helping Department ID 110 in making a withdrawal of € 107 from Account ID 44
+New balance in Account ID 21 is € 13491.0
+pool-1-thread-4 is helping Department ID 102 in making a deposit of € 477 to Account ID 50
+New balance in Account ID 44 is € 20298.0
+pool-1-thread-1 is helping Department ID 110 in making a transfer of € 467 from Account ID 9 to Account ID 40
+New balance in Account ID 50 is € 5003.0
+pool-1-thread-3 is helping Department ID 105 in making a deposit of € 113 to Account ID 27
+New balance in Account ID 9 is € 8778.0
+pool-1-thread-2 is helping Department ID 104 in making a deposit of € 147 to Account ID 12
+New balance in Account ID 27 is € 7753.0
+New balance in Account ID 40 is € 9117.0
+New balance in Account ID 12 is € 14264.0
+pool-1-thread-4 is helping Department ID 101 in making a transfer of € 427 from Account ID 23 to Account ID 17
+pool-1-thread-3 is helping Department ID 108 in making a deposit of € 339 to Account ID 47
+New balance in Account ID 23 is € 7626.0
+New balance in Account ID 47 is € 14498.0
+pool-1-thread-1 is helping Department ID 107 in making a transfer of € 447 from Account ID 25 to Account ID 36
+New balance in Account ID 17 is € 10435.0
+pool-1-thread-2 is helping Department ID 102 in making a transfer of € 157 from Account ID 50 to Account ID 7
+New balance in Account ID 25 is € 23239.0
+pool-1-thread-3 is helping Department ID 109 in making a withdrawal of € 337 from Account ID 34
+New balance in Account ID 50 is € 4846.0
+New balance in Account ID 36 is € 10284.0
+New balance in Account ID 34 is € 12033.0
+pool-1-thread-4 is helping Department ID 106 in making a transfer of € 483 from Account ID 16 to Account ID 35
+New balance in Account ID 7 is € 16269.0
+pool-1-thread-1 is helping Department ID 102 in making a withdrawal of € 168 from Account ID 32
+New balance in Account ID 16 is € 5524.0
+New balance in Account ID 32 is € 8832.0
+pool-1-thread-3 is helping Department ID 105 in making a transfer of € 207 from Account ID 46 to Account ID 34
+New balance in Account ID 35 is € 17582.0
+pool-1-thread-2 is helping Department ID 105 in making a withdrawal of € 479 from Account ID 33
+New balance in Account ID 46 is € 9468.0
+pool-1-thread-1 is helping Department ID 101 in making a deposit of € 181 to Account ID 14
+New balance in Account ID 33 is € 783.0
+pool-1-thread-4 is helping Department ID 105 in making a withdrawal of € 355 from Account ID 24
+New balance in Account ID 34 is € 12240.0
+pool-1-thread-2 is helping Department ID 103 in making a deposit of € 355 to Account ID 46
+New balance in Account ID 14 is € 4414.0
+New balance in Account ID 24 is € 21304.0
+pool-1-thread-3 is helping Department ID 102 in making a withdrawal of € 447 from Account ID 31
+New balance in Account ID 46 is € 9823.0
+pool-1-thread-1 is helping Department ID 103 in making a withdrawal of € 202 from Account ID 22
+New balance in Account ID 31 is € 7004.0
+pool-1-thread-4 is helping Department ID 105 in making a withdrawal of € 487 from Account ID 2
+New balance in Account ID 22 is € 3604.0
+pool-1-thread-2 is helping Department ID 105 in making a deposit of € 387 to Account ID 12
+New balance in Account ID 2 is € 37726.0
+pool-1-thread-3 is helping Department ID 107 in making a transfer of € 357 from Account ID 49 to Account ID 2
+New balance in Account ID 12 is € 14651.0
+pool-1-thread-1 is helping Department ID 103 in making a withdrawal of € 400 from Account ID 31
+New balance in Account ID 49 is € 4737.0
+New balance in Account ID 31 is € 6604.0
+pool-1-thread-4 is helping Department ID 108 in making a transfer of € 313 from Account ID 48 to Account ID 49
+New balance in Account ID 2 is € 38083.0
+pool-1-thread-2 is helping Department ID 103 in making a deposit of € 223 to Account ID 10
+New balance in Account ID 48 is € 1293.0
+pool-1-thread-1 is helping Department ID 105 in making a deposit of € 274 to Account ID 23
+New balance in Account ID 10 is € 10775.0
+New balance in Account ID 49 is € 5050.0
+pool-1-thread-3 is helping Department ID 104 in making a withdrawal of € 462 from Account ID 15
+New balance in Account ID 23 is € 7900.0
+pool-1-thread-2 is helping Department ID 102 in making a deposit of € 137 to Account ID 40
+New balance in Account ID 15 is € 9858.0
+pool-1-thread-4 is helping Department ID 108 in making a withdrawal of € 376 from Account ID 22
+New balance in Account ID 40 is € 9254.0
+pool-1-thread-1 is helping Department ID 106 in making a deposit of € 424 to Account ID 48
+New balance in Account ID 22 is € 3228.0
+pool-1-thread-3 is helping Department ID 110 in making a withdrawal of € 412 from Account ID 30
+New balance in Account ID 48 is € 1717.0
+pool-1-thread-2 is helping Department ID 110 in making a deposit of € 498 to Account ID 40
+New balance in Account ID 30 is € 12556.0
+pool-1-thread-4 is helping Department ID 101 in making a withdrawal of € 137 from Account ID 2
+New balance in Account ID 40 is € 9752.0
+pool-1-thread-1 is helping Department ID 102 in making a withdrawal of € 244 from Account ID 11
+New balance in Account ID 2 is € 37946.0
+New balance in Account ID 11 is € 9476.0
+pool-1-thread-3 is helping Department ID 103 in making a transfer of € 283 from Account ID 31 to Account ID 26
+pool-1-thread-2 is helping Department ID 108 in making a withdrawal of € 382 from Account ID 19
+New balance in Account ID 31 is € 6321.0
+pool-1-thread-4 is helping Department ID 103 in making a withdrawal of € 412 from Account ID 38
+pool-1-thread-1 is helping Department ID 108 in making a deposit of € 176 to Account ID 26
+New balance in Account ID 26 is € 16141.0
+New balance in Account ID 19 is € 3578.0
+pool-1-thread-3 is helping Department ID 107 in making a deposit of € 153 to Account ID 10
+New balance in Account ID 26 is € 16317.0
+New balance in Account ID 38 is € 171.0
+New balance in Account ID 10 is € 10928.0
+pool-1-thread-2 is helping Department ID 106 in making a transfer of € 133 from Account ID 21 to Account ID 48
+pool-1-thread-1 is helping Department ID 110 in making a transfer of € 297 from Account ID 39 to Account ID 12
+New balance in Account ID 21 is € 13358.0
+pool-1-thread-4 is helping Department ID 107 in making a transfer of € 294 from Account ID 26 to Account ID 10
+New balance in Account ID 39 is € 5210.0
+New balance in Account ID 48 is € 1850.0
+New balance in Account ID 26 is € 16023.0
+New balance in Account ID 12 is € 14948.0
+New balance in Account ID 10 is € 11222.0
+Threads have finished executing their tasks.
